@@ -1,5 +1,18 @@
 # Devdegree 2026 再挑戦記録
 
+## 🎯 Core Theme / 開発思想
+
+**人間の判断・不安・確認コストを、AIによる「予測と根拠提示」で事前に消す**
+
+My work focuses on reducing human decision-making anxiety and verification costs by using AI-driven prediction with clear, explainable reasoning.
+
+Across tax, inventory, education, and operational workflows, I design systems where AI does not replace humans, but helps them decide faster and with confidence.
+
+### なぜこの軸か
+- **背景:** 10年以上の実務で「人間の不安が業務を止める瞬間」を何度も見た
+- **AI時代の本質:** 正解を出すより、安心して決断できる材料を揃える
+- **一貫性:** すべてのプロジェクトがこの思想を異なるドメインで検証している
+
 ## 📊 現状 (Updated: 2026-02-11)
 
 ### 基本情報

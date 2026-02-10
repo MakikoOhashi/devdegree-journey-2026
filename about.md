@@ -157,3 +157,69 @@ https://makikoohashi.github.io/
 - 世界レベルのエンジニアリング文化を学ぶ
 - 将来的に「商売×テクノロジー」で起業
 - **既存アプリ（TrackToInventory）を ForecastToInventoryとしてさらに進化させる**
+
+
+## 開発思想 / Core Development Philosophy
+
+### 一貫したテーマ
+
+**人間の判断・不安・確認コストを、AIによる「予測と根拠提示」で事前に消す**
+
+#### なぜこの軸か
+
+10年以上の貿易・EC実務で繰り返し見た光景：
+- 「この在庫、いつ届くの？」（不安）
+- 「この申告で合ってる？」（確認コスト）
+- 「この問題、子供に合ってる？」（判断負荷）
+
+これらは**情報がないから起きる**。
+AIで予測し、根拠を示せば、人間は安心して次に進める。
+
+#### 実装例
+
+| プロダクト | 予測するもの | 根拠の提示 | 削減する不安 |
+|-----------|------------|-----------|-------------|
+| **TrackTo Inventory** | 入庫日 | 貿易書類ベース | 「在庫いつ？」 |
+| **Forecast to Inventory** | 通関・入庫タイミング | AI予測モデル | 「販売可能日は？」 |
+| **WAKARUMADE** | 適切な問題難易度 | リアルタイム調整 | 「難しすぎ/簡単すぎ？」 |
+| **DET類題生成** | 必要な問題タイプ | スコアリング | 「この勉強で足りる？」 |
+| **税務自動化（構想）** | 申告ミスリスク | ルールベース検証 | 「これで合ってる？」 |
+
+#### この軸の強み
+
+**1. 抽象度が適切**
+- 高すぎない → 実装に落ちる
+- 低すぎない → 応用が効く
+
+**2. AI時代の本質を突く**
+- 自動化 ≠ 完全代替
+- 予測 + 説明 = 人間の安心
+
+**3. 複数ドメインで検証済み**
+- EC・教育・税務・在庫管理
+- 「思想を持って作っている人」の証明
+
+#### 進化の過程
+```
+Phase 1: AI で自動化する
+    ↓
+Phase 2: AI で予測する
+    ↓
+Phase 3: 予測 + 根拠を説明する ← 今ここ
+    ↓
+Phase 4: 人間が安心して判断・行動できる
+```
+
+**類題生成の進化も同じ軸:**
+- 無限に問題を出す ❌
+- 「どの問題が、なぜこの人に必要か」を予測 ✅
+- 出題の根拠を説明できる ✅
+- 学習者の不安（これで合っている？）を消す ✅
+
+### 英語版
+
+**For hackathons / interviews:**
+> "Instead of using AI to automate decisions, I focus on prediction and explainability, helping users prepare for likely questions or risks before they happen."
+
+**For essays:**
+> "I build products where AI doesn't replace human judgment, but provides the information and reasoning needed to decide with confidence."
