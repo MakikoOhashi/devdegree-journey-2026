@@ -8,10 +8,10 @@
 - **現在:** 社会人（先月退職）
 
 ### プロジェクト進行状況
-| プロジェクト | ステータス | 期限 | 詳細 |
-|------------|----------|------|------|
-| Gemini Hackathon | 評価待ち | 2月末評価 | [詳細](projects/gemini-hackathon.md) |https://github.com/MakikoOhashi/Gemini-Expense-Tracker
-| Digital Ocean Hackathon | 開発中 | 2月提出 | [詳細](projects/digital-ocean-hackathon.md) |https://github.com/MakikoOhashi/deterministic-ai-control-engine
+| プロジェクト | ステータス | 期限 | 詳細 | 詳細 |
+|------------|----------|------|------|------|
+| Gemini Hackathon | 評価待ち | 2月末評価 | [詳細](projects/gemini-hackathon.md) | https://github.com/MakikoOhashi/Gemini-Expense-Tracker  | 
+| Digital Ocean Hackathon | 開発中 | 2月提出 | [詳細](projects/digital-ocean-hackathon.md) | https://github.com/MakikoOhashi/deterministic-ai-control-engine | 
 | 実ユーザー獲得 | 予定 | 3月 | - |
 
 ### 学習進捗
