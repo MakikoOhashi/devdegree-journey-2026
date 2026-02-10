@@ -14,6 +14,11 @@
 | Digital Ocean Hackathon | 開発中 | 2月提出 | [詳細](projects/digital-ocean-hackathon.md) | https://github.com/MakikoOhashi/deterministic-ai-control-engine | 
 | 実ユーザー獲得 | 予定 | 3月 | - |
 
+-https://gemini3.devpost.com/ 
+-https://devpost.com/software/gemini-powered-expense-tracker
+
+-https://digitalocean.devpost.com/
+
 ### 学習進捗
 - **Duolingo English Test:** 進行中
 - **LSAT Logic Games:** じわじわ進行中
