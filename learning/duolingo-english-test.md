@@ -73,6 +73,7 @@
 
 ### 現在使用中
 - ✅ [公式Practice](https://englishtest.duolingo.com/practice) - Reading進行中
+- Read and Select 進捗: 3/6
 
 ### 補強予定
 - LSAT Logic Games（論理テスト対策）
@@ -113,6 +114,10 @@
 - リポジトリ作成・学習計画策定
 - 公式Practice Reading進行中
 - マイルストーン設定完了
+
+### 2026-02-12
+- [公式Practice](https://englishtest.duolingo.com/practice) の Read and Select を1件実施
+- Read and Select 現状: 3/6
 
 ### 2026-02-18（予定）
 - [ ] Reading完了
