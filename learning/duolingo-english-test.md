@@ -75,9 +75,15 @@
 - ✅ [公式Practice](https://englishtest.duolingo.com/practice) - Reading進行中
 - Read and Select 進捗: 3/6
 
+### 重要メモ（対策方針の前提）
+- DETにはTOEFLのTestGliderのような「決定版外部演習サービス」はまだ薄い
+- 理由: Adaptive形式 + 出題の多様性により、過去問ゴリ押し型が作りにくい
+- 結論: **公式Practiceを主戦場にする戦略が合理的**
+
 ### 補強予定
 - LSAT Logic Games（論理テスト対策）
 - 追加教材（弱点特定後）
+- TOEFL教材の転用（Reading/Speaking/Writingの基礎力をDET形式へ変換）
 
 ## 課題と対策
 
@@ -107,6 +113,20 @@
 - **LSAT併用**: 論理力を根本強化
 - **高速フィードバック**: 48時間結果 → 弱点即修正可能
 - **複数回受験前提**: 3-4週間隔で2-3回受験想定
+
+### 実戦フォーマット（運用）
+- 主軸: 公式Practice Testを週2-3回
+- 目安: スコア帯120±5に入るまで継続
+- 弱点別補助:
+  - Reading: TOEFL Readingで高速処理
+  - Listening: 短い音声の即要約
+  - Speaking: 30秒即興スピーキング
+  - Writing: 5分要約 + 意見1文トレーニング
+
+### やらないこと
+- 怪しいDET専用アプリへの課金
+- 形式暗記のゴリ押し
+- TOEFLフル模試の回しすぎ
 
 ## 学習ログ
 
