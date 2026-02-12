@@ -165,6 +165,8 @@ https://makikoohashi.github.io/
 
 **人間の判断・不安・確認コストを、AIによる「予測と根拠提示」で事前に消す**
 
+思想の起点（DevDegree不合格直後の2026-01メモ）: [references/2026-01-origin-thesis.md](references/2026-01-origin-thesis.md)
+
 #### なぜこの軸か
 
 10年以上の貿易・EC実務で繰り返し見た光景：
