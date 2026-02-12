@@ -21,6 +21,13 @@
 
 ## 問題ソース
 
+### CoderPad選択式論理テスト（コードなし）向け対策
+- 主軸: LSAT Analytical Reasoning（Logic Games）
+- 形式: 制約条件から論理的配置を導く、物語調長文 + 選択肢回答
+- 外部評価: LSATスコア（180点満点）
+- 無料練習: LawHubの公式練習問題・模試（無料範囲）
+- 有料範囲: 正式LSAT受験は有料（目安: 約$200）
+
 ### ✅ 完了済み
 **[ThinkingLSAT - Example Logic Games](https://www.thinkinglsat.com/logic-game/example-logic-game-miscellaneous)**
 - [x] Miscellaneous Game
@@ -109,6 +116,7 @@
 - [ ] 累計30問到達
 - [ ] 各タイプ最低5問ずつ
 - [ ] 苦手タイプ特定完了
+- [ ] LSAT模試 20/24問正解（3ヶ月目標）
 
 ### 4月末
 - [ ] 累計50問到達
@@ -154,3 +162,7 @@
 - DET Reading - 論理構造理解
 - LeetCode - アルゴリズム思考
 - 全て「構造化された思考」を鍛える
+
+### 料金・実施方針メモ
+- Devdegree対策では、LSATは無料練習範囲を優先活用
+- 正式受験スコア取得は必要になった時点で判断
