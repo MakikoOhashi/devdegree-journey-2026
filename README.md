@@ -4,12 +4,16 @@
 
 **人間の判断・不安・確認コストを、AIによる「予測と根拠提示」で事前に消す**
 
+### 最重要テーマ
+> **人間の判断・不安・確認コストをAIによる“予測と根拠提示”で事前に消す。**
+
 My work focuses on reducing human decision-making anxiety and verification costs by using AI-driven prediction with clear, explainable reasoning.
 
 Across tax, inventory, education, and operational workflows, I design systems where AI does not replace humans, but helps them decide faster and with confidence.
 
 ### 統合テーマ
 > **私はAIの不確実性を制御する基盤を設計しています。**
+> **人間とAIが一緒に責任を取るためのインフラを設計しています。**
 
 - AIをForecastに使う
 - 不安を減らす
@@ -77,6 +81,10 @@ Human -> AI Agent -> API/Backend/System of Record -> Execution & Evidence
 - 過去比較
 - 不確実性の明示
 - 代替シナリオ提示
+
+天気予報と同じく、価値は「当て続けること」だけではない。  
+確率・根拠・不確実性を明示し、外れた場合も判断過程を説明できることが重要。  
+つまり、**「その時点で合理的な判断だった」と示せる責任構造**を設計する。
 
 これは分析ツールではなく、  
 **人間とAIが共同で責任を取るための意思決定インフラ**として設計する。
