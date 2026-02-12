@@ -48,6 +48,10 @@ Across tax, inventory, education, and operational workflows, I design systems wh
 2. DETは制御エンジンとして最小プロトタイプ化（生成制御の技術抽象度を示す）
 3. 2つの共通アーキテクチャ思想を文章化・図示（再現性と将来性を示す）
 
+### 重要ドキュメント（思想の固定化）
+- [AI Output Governance Engine](projects/ai-output-governance-engine.md)
+- 目的: 「何を作るか」ではなく「どんな状態を作るか」を短く固定して、判断基準のぶれを防ぐ
+
 ### AI中心時代の設計前提
 旧世界（人間中心）:
 Human -> UI -> App -> DB/API
@@ -102,6 +106,7 @@ Human -> AI Agent -> API/Backend/System of Record -> Execution & Evidence
 |------------|----------|------|------|------|
 | Gemini Hackathon | 評価待ち | 2月末評価 | [詳細](projects/gemini-hackathon.md) | https://github.com/MakikoOhashi/Gemini-Expense-Tracker  | 
 | Digital Ocean Hackathon | 開発中 | 2月提出 | [詳細](projects/digital-ocean-hackathon.md) | https://github.com/MakikoOhashi/deterministic-ai-control-engine | 
+| AI Output Governance Engine | 設計整理中 | 2月 | [詳細](projects/ai-output-governance-engine.md) | - |
 | 実ユーザー獲得 | 予定 | 3月 | - | - |
 
 - https://gemini3.devpost.com/ 
@@ -134,3 +139,4 @@ Human -> AI Agent -> API/Backend/System of Record -> Execution & Evidence
 - 2026-02-11: リポジトリ作成
 - 2026-02-12: Core Themeを「不確実性の制御」軸で推敲、DevDegree向け勝ち筋と優先順位を追記
 - 2026-02-12: AI中心時代の設計前提、フロントレス戦略、Forecast × 説明責任を追記
+- 2026-02-12: AI Output Governance Engineの抽出版ドキュメントを追加
