@@ -61,12 +61,13 @@
 
 ## 進捗記録
 
-### 解いた問題数: 6/50（目標）
+### 解いた問題数: 7/50（目標）
 
 | 日付 | 問題ソース | 問題数 | 正答率 | 所要時間 | メモ |
 |------|-----------|--------|--------|----------|------|
 | 2026-02-11以前 | ThinkingLSAT | 5 | - | - | 初回完走 |
 | 2026-02-12 | [Manhattan Review Q171](https://www.manhattanreview.com/lsat-practice-questions/171/) | 1 | - | - | 完了 |
+| 2026-02-13 | [Manhattan Review Q172](https://www.manhattanreview.com/lsat-practice-questions/172/?pid=172) | 1 | - | - | LSAT-LG-2 / Analytical Reasoning 完了 |
 
 ## 学習ログ
 
@@ -78,8 +79,9 @@
 ### 2026-02-12
 - Manhattan Review Q171 完了
 
-### 2026-02-13（予定）
-- [ ] null Question LSAT-LG-2
+### 2026-02-13
+- Manhattan Review Q172（LSAT-LG-2）完了
+- Section: Analytical Reasoning (Logic Games) 完了
 
 ### 2026-02-18（予定）
 - [ ] Khan Academy LSAT確認
