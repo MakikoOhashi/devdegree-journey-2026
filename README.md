@@ -44,6 +44,43 @@ Across tax, inventory, education, and operational workflows, I design systems wh
 2. DETは制御エンジンとして最小プロトタイプ化（生成制御の技術抽象度を示す）
 3. 2つの共通アーキテクチャ思想を文章化・図示（再現性と将来性を示す）
 
+### AI中心時代の設計前提
+旧世界（人間中心）:
+Human -> UI -> App -> DB/API
+
+新世界（AI中心）:
+Human -> AI Agent -> API/Backend/System of Record -> Execution & Evidence
+
+この変化では、UIは主戦場ではなく交換可能レイヤーになる。  
+評価対象は、AIが直接利用できるAPI設計・データ意味・処理正当性・証跡設計。
+
+### フロントを作らないサービス戦略
+今後の中核価値は以下の4系統:
+
+1. 判断を返す（Forecast / Risk estimation / Scoring）
+2. 記録を保証する（監査証跡 / 履歴固定 / 差分管理）
+3. 実行を担う（決済 / 発注 / 申請 / 更新）
+4. 意味変換する（生データ -> 判定可能な構造）
+
+狙いは「人間向け画面の最適化」ではなく、  
+**AIが連続的に叩いても破綻しない、説明責任を返せるバックエンド**を作ること。
+
+### Forecast × 説明責任
+このリポジトリの実質テーマは、予測精度の競争だけではない。  
+テーマは **「予測に基づく意思決定の正当性を残すこと」**。
+
+- Forecast to Inventory: 予測外れが在庫コストに直結するため、根拠が必要
+- Forecast Expense（Gemini）: 税務・監査観点で「なぜその判断か」の説明が必要
+
+目指すのは、単一回答の提示ではなく:
+- 根拠の分解
+- 過去比較
+- 不確実性の明示
+- 代替シナリオ提示
+
+これは分析ツールではなく、  
+**人間とAIが共同で責任を取るための意思決定インフラ**として設計する。
+
 ## 📊 現状 (Updated: 2026-02-12)
 
 ### 基本情報
@@ -88,3 +125,4 @@ Across tax, inventory, education, and operational workflows, I design systems wh
 ## 🔄 更新履歴
 - 2026-02-11: リポジトリ作成
 - 2026-02-12: Core Themeを「不確実性の制御」軸で推敲、DevDegree向け勝ち筋と優先順位を追記
+- 2026-02-12: AI中心時代の設計前提、フロントレス戦略、Forecast × 説明責任を追記
