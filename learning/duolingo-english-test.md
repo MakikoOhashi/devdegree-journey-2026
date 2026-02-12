@@ -96,7 +96,7 @@
 
 ### 現在使用中
 - ✅ [公式Practice](https://englishtest.duolingo.com/practice) - Reading進行中
-- Read and Select 進捗: 3/6
+- Read and Select 進捗: 6/6（全問完了）
 
 ### 重要メモ（対策方針の前提）
 - DETにはTOEFLのTestGliderのような「決定版外部演習サービス」はまだ薄い
@@ -161,6 +161,10 @@
 ### 2026-02-12
 - [公式Practice](https://englishtest.duolingo.com/practice) の Read and Select を1件実施
 - Read and Select 現状: 3/6
+
+### 2026-02-13
+- [公式Practice](https://englishtest.duolingo.com/practice) の Read and Select を2件実施
+- Read and Select 現状: 6/6（全問完了）
 
 ### 2026-02-18（予定）
 - [ ] Reading完了
