@@ -97,6 +97,7 @@
 ### 現在使用中
 - ✅ [公式Practice](https://englishtest.duolingo.com/practice) - Reading進行中
 - Read and Select 進捗: 6/6（全問完了）
+- Fill in the blanks 進捗: 5/6
 
 ### 重要メモ（対策方針の前提）
 - DETにはTOEFLのTestGliderのような「決定版外部演習サービス」はまだ薄い
@@ -165,6 +166,11 @@
 ### 2026-02-13
 - [公式Practice](https://englishtest.duolingo.com/practice) の Read and Select を2件実施
 - Read and Select 現状: 6/6（全問完了）
+
+### 2026-02-16
+- DET Reading の Fill in the blanks を1件実施
+- Fill in the blanks 現状: 5/6
+- ほぼ満点対策として「書けない単語リスト化」を検討中
 
 ### 2026-02-18（予定）
 - [ ] Reading完了

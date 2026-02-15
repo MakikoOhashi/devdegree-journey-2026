@@ -54,6 +54,10 @@
 - [ ] GMAT Critical Reasoning - 論理問題
 - [ ] GRE Analytical Writing - 論理構造
 - [ ] Puzzle/Logic系サイト（BrainBashers等）
+- [ ] [HackerRank: Basic Algo Quiz #1](https://www.hackerrank.com/challenges/basic-algo-quiz-1/problem) - 計算量/ソート
+- [ ] [HackerRank: Data Structures Quiz #2](https://www.hackerrank.com/challenges/data-structures-quiz-2/problem) - データ構造/二分探索
+- [ ] [HackerRank: Data Structures MCQ](https://www.hackerrank.com/domains/data-structures/multiple-choice) - 配列/木/スタック/キュー
+- [ ] [HackerRank: How Well Do You Know Trees](https://www.hackerrank.com/challenges/how-well-do-you-know-trees/problem) - 木構造基礎
 
 ### 📝 自作（最終手段）
 - [ ] 自分のAI類題生成プロダクトで作成
@@ -82,6 +86,11 @@
 ### 2026-02-13
 - Manhattan Review Q172（LSAT-LG-2）完了
 - Section: Analytical Reasoning (Logic Games) 完了
+
+### 2026-02-16
+- [Manhattan Review Q181](https://www.manhattanreview.com/lsat-practice-questions/181/?pid=181) に着手したが、問題不備で完了できず
+- Manhattan Reviewでの継続は停止
+- 明日以降はHackerRankの理論問題（MCQ）へ移行予定
 
 ### 2026-02-18（予定）
 - [ ] Khan Academy LSAT確認
