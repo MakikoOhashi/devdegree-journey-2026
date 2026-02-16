@@ -54,10 +54,7 @@
 - [ ] GMAT Critical Reasoning - 論理問題
 - [ ] GRE Analytical Writing - 論理構造
 - [ ] Puzzle/Logic系サイト（BrainBashers等）
-- [ ] [HackerRank: Basic Algo Quiz #1](https://www.hackerrank.com/challenges/basic-algo-quiz-1/problem) - 計算量/ソート
-- [ ] [HackerRank: Data Structures Quiz #2](https://www.hackerrank.com/challenges/data-structures-quiz-2/problem) - データ構造/二分探索
-- [ ] [HackerRank: Data Structures MCQ](https://www.hackerrank.com/domains/data-structures/multiple-choice) - 配列/木/スタック/キュー
-- [ ] [HackerRank: How Well Do You Know Trees](https://www.hackerrank.com/challenges/how-well-do-you-know-trees/problem) - 木構造基礎
+- [ ] [BrainBashers Logic Puzzles](https://www.brainbashers.com/logic.asp) - Logic問題継続
 
 ### 📝 自作（最終手段）
 - [ ] 自分のAI類題生成プロダクトで作成
@@ -65,13 +62,14 @@
 
 ## 進捗記録
 
-### 解いた問題数: 7/50（目標）
+### 解いた問題数: 8/50（目標）
 
 | 日付 | 問題ソース | 問題数 | 正答率 | 所要時間 | メモ |
 |------|-----------|--------|--------|----------|------|
 | 2026-02-11以前 | ThinkingLSAT | 5 | - | - | 初回完走 |
 | 2026-02-12 | [Manhattan Review Q171](https://www.manhattanreview.com/lsat-practice-questions/171/) | 1 | - | - | 完了 |
 | 2026-02-13 | [Manhattan Review Q172](https://www.manhattanreview.com/lsat-practice-questions/172/?pid=172) | 1 | - | - | LSAT-LG-2 / Analytical Reasoning 完了 |
+| 2026-02-17 | [BrainBashers Logic](https://www.brainbashers.com/logic.asp) | 1 | - | - | 1問クリア |
 
 ## 学習ログ
 
@@ -90,7 +88,12 @@
 ### 2026-02-16
 - [Manhattan Review Q181](https://www.manhattanreview.com/lsat-practice-questions/181/?pid=181) に着手したが、問題不備で完了できず
 - Manhattan Reviewでの継続は停止
-- 明日以降はHackerRankの理論問題（MCQ）へ移行予定
+- 代替問題ソースを検討開始
+
+### 2026-02-17
+- [BrainBashers Logic](https://www.brainbashers.com/logic.asp) を1問クリア
+- HackerRankは方向性が合わないためプランから削除
+- 当面はBrainBashersを継続し、その後LSAT過去問を探索
 
 ### 2026-02-18（予定）
 - [ ] Khan Academy LSAT確認
