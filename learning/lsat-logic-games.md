@@ -62,7 +62,7 @@
 
 ## 進捗記録
 
-### 解いた問題数: 9/50（目標）
+### 解いた問題数: 10/50（目標）
 
 | 日付 | 問題ソース | 問題数 | 正答率 | 所要時間 | メモ |
 |------|-----------|--------|--------|----------|------|
@@ -71,6 +71,7 @@
 | 2026-02-13 | [Manhattan Review Q172](https://www.manhattanreview.com/lsat-practice-questions/172/?pid=172) | 1 | - | - | LSAT-LG-2 / Analytical Reasoning 完了 |
 | 2026-02-17 | [BrainBashers Logic](https://www.brainbashers.com/logic.asp) | 1 | - | - | 1問クリア |
 | 2026-02-18 | [BrainBashers Puzzle ZUYK](https://www.brainbashers.com/puzzle/zuyk) | 1 | - | - | 1問クリア（正解） |
+| 2026-02-19 | [BrainBashers Puzzle ZQRF](https://www.brainbashers.com/puzzle/zqrf) | 1 | - | - | 1問完了（不正解） |
 
 ## 学習ログ
 
@@ -99,6 +100,10 @@
 ### 2026-02-18
 - [BrainBashers Puzzle ZUYK](https://www.brainbashers.com/puzzle/zuyk) を1問完了
 - 結果: 正解
+
+### 2026-02-19
+- [BrainBashers Puzzle ZQRF](https://www.brainbashers.com/puzzle/zqrf) を1問完了
+- 結果: 不正解
 
 ### 2026-02-25（予定）
 - [ ] 7Sage無料分挑戦
