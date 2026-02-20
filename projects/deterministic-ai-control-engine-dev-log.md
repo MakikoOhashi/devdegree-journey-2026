@@ -2,6 +2,8 @@
 
 面接・振り返り用に、日次で「何をしたか / なぜそうしたか / 何が失敗したか / どう切り分けたか」を残すログ。
 
+運用手順: /Users/makiko/Documents/Documents - makiko’s MacBook Air/dev/devdegree-journey-2026/references/daily-progress-logging-process.md
+
 ---
 
 ## 2026-02-19

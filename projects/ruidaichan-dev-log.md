@@ -2,6 +2,8 @@
 
 面接・振り返り用に、日次で「何を実装したか / 何を判断したか / 何を除外したか / 完了条件」を残すログ。
 
+運用手順: /Users/makiko/Documents/Documents - makiko’s MacBook Air/dev/devdegree-journey-2026/references/daily-progress-logging-process.md
+
 ---
 
 ## 2026-02-20

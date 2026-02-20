@@ -51,6 +51,7 @@ Across tax, inventory, education, and operational workflows, I design systems wh
 ### 重要ドキュメント（思想の固定化）
 - [AI Output Governance Engine](projects/ai-output-governance-engine.md)
 - [思想の原点（2026-01）](references/2026-01-origin-thesis.md)
+- [日次進捗ログ手順](references/daily-progress-logging-process.md)
 - 目的: 「何を作るか」ではなく「どんな状態を作るか」を短く固定して、判断基準のぶれを防ぐ
 
 ### AI中心時代の設計前提
