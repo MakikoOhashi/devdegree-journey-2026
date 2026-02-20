@@ -28,3 +28,20 @@ FrontendをStatic Site化してDOで動作させ、Generation APIをDOのGradien
 ### Interview-ready Takeaway
 - 「全置換」ではなく、使える層だけ置換して動く構成を作る判断ができた
 - 技術選定を机上で終わらせず、デプロイ可能性で最終判断した
+
+## 2026-02-20
+
+### Summary
+DigitalOcean Hackathon提出に向けたデモ素材を完成。動画撮影・編集・音声収録・YouTube公開まで完了。
+
+### What I Did
+- デモ動画の撮影
+- デモ動画の編集
+- 音声吹き込み
+- YouTubeへのアップロード
+
+### Decision
+- 提出物の説明は文書だけでなく、動作の流れを短時間で伝えられる動画を主軸にする
+
+### Learning
+- 実装完了後の提出工程（説明設計・動画化）も、提出品質を左右する重要工程
