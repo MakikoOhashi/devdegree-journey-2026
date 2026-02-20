@@ -39,3 +39,18 @@ DigitalOcean Hackathon提出に向けたデモ素材を完成。動画撮影・�
 - デモ動画の編集
 - 音声吹き込み
 - YouTubeへのアップロード
+
+## 2026-02-21
+
+### Summary
+DevpostのDigitalOcean Hackathonに `Stable Difficulty Generation Engine` として提出完了。あわせてGSoC準備としてポートフォリオのOthersセクションを更新。
+
+### What I Did
+- Devpost DO Hackathonへ提出完了
+  - 提出物: https://github.com/MakikoOhashi/deterministic-ai-control-engine
+  - 提出タイトル: Stable Difficulty Generation Engine
+- ポートフォリオ更新（GSoC準備）
+  - https://makikoohashi.github.io/
+  - Othersセクションに以下を追記
+    - Stable Difficulty Generation Engine
+    - Audit Risk Forecast Tracker

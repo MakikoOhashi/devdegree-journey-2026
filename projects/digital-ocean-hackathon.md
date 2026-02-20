@@ -4,8 +4,9 @@
 - **時期:** 2026年2月
 - **内容:** AIの出力評価（制御）による試験問題類題作成プロダクト
 - **提出物リポジトリ:** https://github.com/MakikoOhashi/deterministic-ai-control-engine
-- **現状:** 提出準備中
+- **現状:** 提出完了（2026-02-21）
 - **提出期限:** 2月末
+- **提出タイトル:** Stable Difficulty Generation Engine
 
 ## コンセプト
 AIの出力を評価・制御することで質の高い試験問題の類題を自動生成
@@ -61,8 +62,8 @@ AIの出力を評価・制御することで質の高い試験問題の類題を
 - Deploy: DigitalOcean (Backend + Static Site)
 
 ## 進捗
-- [ ] プロダクト完成
-- [ ] 提出
+- [x] プロダクト完成
+- [x] 提出（Devpost DO Hackathon, 2026-02-21）
 - [ ] 3月: プロダクト化 → 実評価獲得
 
 ## 関連ログ
