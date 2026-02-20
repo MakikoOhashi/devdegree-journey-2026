@@ -18,6 +18,35 @@
 - `4 mm = □ cm` のような単位変換の式問題に対応
 - 成功件数が少ないケースでのリトライ処理を実装
 
+### Addendum: README方針更新（2026-02-20）
+
+1. README主軸変更
+- CHANGE: READMEの主軸を `/extract` 中心から `/micro/generate_from_ocr` 中心に変更
+- WHY: Phase0では「抽出精度」より「1枚の類題プリント生成体験」を最優先したため
+
+2. 入力例・スキーマ追加
+- CHANGE: `/micro/generate_from_ocr` の入力例・出力スキーマ例を追加
+- WHY: 単位変換（例: `10cm = ◻︎m`）を文章題ではなく計算問題として扱うため
+
+3. 旧エンドポイント整理
+- CHANGE: `/extract*`, `/micro/generate` を legacy/aux 扱いに整理
+- WHY:
+  - ルールベース制約では自然な類題生成が難しいため
+  - 正確性だけでなく「そのまま印刷できるプリント体験」を母親目線で優先したため
+  - ChatGPTより1アクション少ない体験を目指すため
+
+4. Timeout / partial_success 方針追加
+- CHANGE: Timeout / partial_success の方針をREADMEに追加
+- WHY:
+  - 10問指定で3問だけ返る体験を避けるため
+  - 軽い再試行で安定性を上げつつ、待ち時間増加を抑えるため
+
+5. ロードマップ基準リンク追加
+- CHANGE: ロードマップ基準リンクを追加
+- WHY:
+  - Phase0完了条件を明確化するため
+  - 機能拡張よりUI磨き・審査提出に進む判断軸を固定するため
+
 ### Decision
 - まずは以下ソースの1-3年問題で成立確認を優先
   - https://www.print365.net/2gakkimadekeisan1nen/
