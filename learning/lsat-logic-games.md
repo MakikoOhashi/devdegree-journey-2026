@@ -62,7 +62,7 @@
 
 ## 進捗記録
 
-### 解いた問題数: 11/50（目標）
+### 解いた問題数: 12/50（目標）
 
 | 日付 | 問題ソース | 問題数 | 正答率 | 所要時間 | メモ |
 |------|-----------|--------|--------|----------|------|
@@ -73,6 +73,7 @@
 | 2026-02-18 | [BrainBashers Puzzle ZUYK](https://www.brainbashers.com/puzzle/zuyk) | 1 | - | - | 1問クリア（正解） |
 | 2026-02-19 | [BrainBashers Puzzle ZQRF](https://www.brainbashers.com/puzzle/zqrf) | 1 | - | - | 1問完了（不正解） |
 | 2026-02-20 | [BrainBashers Puzzle ZEFV](https://www.brainbashers.com/puzzle/zefv) | 1 | - | - | 1問完了 |
+| 2026-02-24 | [BrainBashers Puzzle ZYZN](https://www.brainbashers.com/puzzle/zyzn) | 1 | - | - | 1問完了（正解） |
 
 ## 学習ログ
 
@@ -108,6 +109,10 @@
 
 ### 2026-02-20
 - [BrainBashers Puzzle ZEFV](https://www.brainbashers.com/puzzle/zefv) を1問完了
+
+### 2026-02-24
+- [BrainBashers Puzzle ZYZN](https://www.brainbashers.com/puzzle/zyzn) を1問完了
+- 結果: 正解
 
 ### 2026-02-25（予定）
 - [ ] 7Sage無料分挑戦
