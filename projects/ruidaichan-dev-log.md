@@ -84,4 +84,7 @@
 
 ## 2026-02-23
 
-- difficulty（`easy` / `same` / `hard`）機能整備
+- `/micro/generate_from_ocr` の難易度制御を、数値レバー + 厳格reject方式から `easy` / `standard` / `hard` のプロンプト差分方式へ変更
+- `difficulty_policy_miss` 判定を廃止
+- 後方互換として `same` は `standard` にマップ
+- 厳格制約による生成萎縮を避け、チャットAIを上回る生成体験を優先
