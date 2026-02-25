@@ -95,3 +95,10 @@
 - 実機検証を実施
 - 無料プランで審査提出予定
 - 明日、1日5回生成までの制限を追加予定
+
+## 2026-02-25
+
+- Ruidaichanを申請直前までFix
+- Notionでプライバシーポリシー作成完了
+- Notionで連絡先URL作成完了
+  - https://quiet-thrill-c13.notion.site/312c3eba44cb808f82dcd3f3deb7aa15?pvs=74

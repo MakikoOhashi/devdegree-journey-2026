@@ -37,3 +37,20 @@
 
 ### 一言
 - VPS理解は「所有しない設計」を選ぶための前提知識になる
+
+## 2026-02-25
+
+### 進捗
+- ハッカソン要件確認: https://www.wemakedevs.org/hackathons/vision/rules
+- iPadアプリを立ち上げ
+- リポジトリ作成: https://github.com/MakikoOhashi/pencil-stuck-marker
+
+### 実装到達点
+- Xcodeを起動して実装開始
+- Simulator上で描画を確認
+- 描画停止を10秒で検知
+- 停止した箇所を黄色アノテーションするところまで実装
+
+### テーマ確認
+- Visionを使う
+- Pythonも使ってみる（GSoC応募の選択肢拡張のため）
