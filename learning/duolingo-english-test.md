@@ -139,7 +139,7 @@
 - Read and Select 進捗: 6/6（全問完了）
 - Fill in the blanks 進捗: 6/6（全問完了）
 - Read and Complete 進捗: 6/6（全問完了）
-- Interactive Reading 進捗: 3/6
+- Interactive Reading 進捗: 4/6
 
 ### 重要メモ（対策方針の前提）
 - DETにはTOEFLのTestGliderのような「決定版外部演習サービス」はまだ薄い
@@ -243,6 +243,14 @@
 - DET Reading の Interactive Reading を1件実施
 - Interactive Reading 現状: 3/6
 - 昨日より正答率が上がり、時間内に完了
+
+### 2026-02-27
+- DET Reading の Interactive Reading を1件実施（最後まで完了、時間内）
+- Interactive Reading 現状: 4/6
+- 結果メモ:
+  - 初めの空欄補充: 6割正解
+  - ハイライト設問2問中、1文が `Partialy correct`
+  - タイトル設問: ◎
 
 ### 2026-02-18（予定）
 - [ ] Reading完了

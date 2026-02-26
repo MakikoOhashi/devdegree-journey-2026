@@ -62,7 +62,7 @@
 
 ## 進捗記録
 
-### 解いた問題数: 14/50（目標）
+### 解いた問題数: 15/50（目標）
 
 | 日付 | 問題ソース | 問題数 | 正答率 | 所要時間 | メモ |
 |------|-----------|--------|--------|----------|------|
@@ -76,6 +76,7 @@
 | 2026-02-24 | [BrainBashers Puzzle ZYZN](https://www.brainbashers.com/puzzle/zyzn) | 1 | - | - | 1問完了（正解） |
 | 2026-02-25 | [BrainBashers Puzzle ZIXB](https://www.brainbashers.com/puzzle/zixb) | 1 | - | - | 1問完了（正解） |
 | 2026-02-26 | [BrainBashers Puzzle ZRZH](https://www.brainbashers.com/puzzle/zrzh) | 1 | - | - | 1問完了 |
+| 2026-02-27 | [BrainBashers Puzzle ZXSC](https://www.brainbashers.com/puzzle/zxsc) | 1 | - | - | 1問完了（最後の1個で問題文見落とし） |
 
 ## 学習ログ
 
@@ -124,7 +125,11 @@
 - [BrainBashers Puzzle ZRZH](https://www.brainbashers.com/puzzle/zrzh) を1問完了
 - 読み落としメモ: `Only one person wore the same number as the position they finished.`
 
-### 2026-02-27（予定）
+### 2026-02-27
+- [BrainBashers Puzzle ZXSC](https://www.brainbashers.com/puzzle/zxsc) を1問完了
+- メモ: 最後の1個で問題文を見落とし
+
+### 2026-02-28（予定）
 - [ ] 7Sage無料分挑戦
 - [ ] Reddit/YouTube問題収集
 - [ ] 累計20問到達

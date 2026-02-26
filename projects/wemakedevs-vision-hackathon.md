@@ -54,3 +54,53 @@
 ### テーマ確認
 - Visionを使う
 - Pythonも使ってみる（GSoC応募の選択肢拡張のため）
+
+## 提出ロードマップ（2026-02-26 -> 2026-03-02 05:00 JST）
+
+### 戦略
+- ストア提出は対象外。`動くデモ + README + 短い動画` に集中
+- 勝ち筋は「詰まり検知 -> 声かけ -> 空間アノテーション」を明確に見せること
+
+### やらないこと
+- OCR
+- 正解提示
+- 本格チャット
+- 複数問題対応
+- 審査提出向けのiOS配布対応
+
+### やること
+- Vision Agentが「介入してよいか」を判断
+- Pythonが「何を表示するか」を決定
+- その流れを2-3分動画で伝える
+
+### Day 1（2/26）
+- Swift側: 詰まり検知（stall / oscillation）を関数分離
+- Vision Agent呼び出しを1箇所に集約（`verify_intervention`）
+- Python最小APIを接続（region情報 -> 表示メッセージJSON）
+- 到達点: Swift -> Vision Agent -> Python -> Swift が1回通る
+
+### Day 2（2/27）
+- UI最小仕上げ（黄色ハイライト、吹き出し、dismiss/強調）
+- READMEでVision Agents SDKの役割とPythonの役割を明記
+- 到達点: 第三者が見て「介入の意図」が分かる状態
+
+### Day 3（2/28）
+- デモ動画撮影（2-3分）
+- 構成: 読込 -> 書く -> 停止 -> 吹き出し -> 強調 -> 再開
+- 字幕/ナレーションに以下を含める:
+  - No OCR
+  - No answers
+  - Behavior-based intervention
+  - Vision Agent verifies before interrupting
+- 到達点: 提出可能な動画1本
+
+### Day 4（3/1）
+- README最終チェック
+- 動画URL確定
+- 提出フォーム入力
+- 直すのは致命的不具合のみ（UI微調整はしない）
+
+### 判断基準
+- その作業は「動画で一発で伝わるか」
+  - YES: やる
+  - NO: やらない
