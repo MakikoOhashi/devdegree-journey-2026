@@ -102,3 +102,8 @@
 - Notionでプライバシーポリシー作成完了
 - Notionで連絡先URL作成完了
   - https://quiet-thrill-c13.notion.site/312c3eba44cb808f82dcd3f3deb7aa15?pvs=74
+
+## 2026-02-28
+
+- Apple Developer Program承認を確認
+- 午前中にRuidaichanをApple App審査へ提出
