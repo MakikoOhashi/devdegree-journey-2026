@@ -62,7 +62,7 @@
 
 ## 進捗記録
 
-### 解いた問題数: 15/50（目標）
+### 解いた問題数: 16/50（目標）
 
 | 日付 | 問題ソース | 問題数 | 正答率 | 所要時間 | メモ |
 |------|-----------|--------|--------|----------|------|
@@ -77,6 +77,7 @@
 | 2026-02-25 | [BrainBashers Puzzle ZIXB](https://www.brainbashers.com/puzzle/zixb) | 1 | - | - | 1問完了（正解） |
 | 2026-02-26 | [BrainBashers Puzzle ZRZH](https://www.brainbashers.com/puzzle/zrzh) | 1 | - | - | 1問完了 |
 | 2026-02-27 | [BrainBashers Puzzle ZXSC](https://www.brainbashers.com/puzzle/zxsc) | 1 | - | - | 1問完了（最後の1個で問題文見落とし） |
+| 2026-03-02 | [BrainBashers Puzzle ZSOP](https://www.brainbashers.com/puzzle/zsop) | 1 | - | - | 1問完了 |
 
 ## 学習ログ
 
@@ -128,6 +129,9 @@
 ### 2026-02-27
 - [BrainBashers Puzzle ZXSC](https://www.brainbashers.com/puzzle/zxsc) を1問完了
 - メモ: 最後の1個で問題文を見落とし
+
+### 2026-03-02
+- [BrainBashers Puzzle ZSOP](https://www.brainbashers.com/puzzle/zsop) を1問完了
 
 ### 2026-02-28（予定）
 - [ ] 7Sage無料分挑戦

@@ -107,6 +107,10 @@
 
 ## 2026-03-01（提出日）
 
+### 提出
+- Pencil Stuck Marker をハッカソンへ提出完了
+- リポジトリ: https://github.com/MakikoOhashi/pencil-stuck-marker
+
 ### 事象
 - デモ撮影時にUI挙動が不安定化
 - `/analyze` の遅延・揺らぎ応答（True/False交互 + 古いレスポンス到着）
