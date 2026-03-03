@@ -261,6 +261,10 @@
 - DET Reading の Interactive Reading を1件実施
 - Interactive Reading 現状: 6/6（全問完了）
 
+### 2026-03-04
+- Writingに着手（Write about the photo）
+- 1文程度しか書けず、表現量が不足
+
 ### 2026-02-18（予定）
 - [ ] Reading完了
 - [ ] Listening着手
