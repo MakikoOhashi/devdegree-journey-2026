@@ -39,6 +39,9 @@
 - ブランチ作成
 - コミット整理
 - assignment依頼を公開で実施
+- Issue: https://github.com/c2siorg/Codelabz/issues/283
+- 公開コメント:
+  - "I’ve added a minimal TypeScript setup (typescript + tsconfig.json) and migrated src/helpers/userListModifiers to TypeScript on my branch. I confirmed that npm run build and npm run dev work correctly."
 
 ### Takeaway
 趣味改修ではなく、チーム前提の変更フローとして完遂。
