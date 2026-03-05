@@ -276,6 +276,11 @@
 - 改善方針を確定: 「型を使う」を最優先（4文テンプレ固定）
 - 次回チェック項目: 写真描写で `left/right/background/overall` を必ず入れる
 
+### 2026-03-06
+- DET Writing（Write about the photo）を1件実施
+- 前回より文量は増加（2文以上）したが、時間内で完結しきれず
+- 継続方針: 4文テンプレを崩さず、`center/background/overall` まで必ず書き切る
+
 ### 2026-02-18（予定）
 - [ ] Reading完了
 - [ ] Listening着手

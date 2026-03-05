@@ -10,16 +10,21 @@
 - 🚧 Gemini Hackathon評価待ち
 
 ## 2026年3月
-- [ ] プロダクトリリース
-- [ ] 実ユーザー獲得
-- [ ] 実評価獲得
+- [ ] ハッカソン新規参加は一旦Close（既存案件の完遂を優先）
+- [ ] iOS 2件（Ruidaichan / WAKARUMADE）の審査対応・メンテ継続
+- [ ] 代表作（主軸）: Forecast to Inventory（Shopify App）を作り上げる
+- [ ] 準代表作: Multi eBay account sync Shopify app を作り上げる
+- [ ] 面接向けに、問題定義 -> 設計判断 -> 失敗 -> 改善 -> 数値結果の一貫ログを残す
 
 ## 2026年4-5月（予定）
+- [ ] 4月: DET受験
+- [ ] DET結果に応じた弱点補強（短期）
 - [ ] 技術記事執筆開始（英語）
 - [ ] GitHub整備
 - [ ] プロジェクトREADME英語化
 
-## 2026年6-7月（予定）
+## 2026年6-8月（予定）
+- [ ] 夏インターン参画（MLH / GSoC含む外部機会の獲得）
 - [ ] Shopify OSS貢献 or Upwork案件
 - [ ] 技術記事2本目
 
