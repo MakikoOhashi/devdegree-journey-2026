@@ -48,6 +48,15 @@
 - これは ①語彙量を増やす ②英語量を増やす ③処理の型を固定する のどれか？
 - DETで最優先は **③**
 
+#### Write about a photo（固定テンプレ）
+- 方針: **型を使う（毎回同じ骨組み）**
+- 4文テンプレ:
+  1. `In the picture, I can see ...`
+  2. `On the left/right, there is/are ...`
+  3. `In the background, ...`
+  4. `Overall, it looks ...`
+- 目標: 40-60語を1分で安定して出す
+
 #### 運用方針（面接対策と一本化）
 - 平常時20分:
   - X等の英語記事で主張を1つ抽出（5-10分）
@@ -264,6 +273,8 @@
 ### 2026-03-04
 - Writingに着手（Write about the photo）
 - 1文程度しか書けず、表現量が不足
+- 改善方針を確定: 「型を使う」を最優先（4文テンプレ固定）
+- 次回チェック項目: 写真描写で `left/right/background/overall` を必ず入れる
 
 ### 2026-02-18（予定）
 - [ ] Reading完了

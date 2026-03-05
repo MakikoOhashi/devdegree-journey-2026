@@ -28,3 +28,13 @@
 - `GEMINI_API_KEY`
 - `SUPABASE_SERVICE_ROLE_KEY`
 - `SUPABASE_URL`
+
+## 2026-03-04
+
+### 進捗
+- バックエンド接続を、Web(Vercel)の個別エンドポイント呼び出し構成から `common-ai-api` に完全移行
+- iOS側の利用先を一本化し、運用・拡張時の管理ポイントを削減
+
+### 判断
+- アプリごとのAPI分散をやめ、共通基盤への集約を優先
+- 今後の機能追加は `common-ai-api` 側で吸収し、iOS側変更を最小化する方針
