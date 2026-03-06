@@ -1,5 +1,8 @@
 # 参考情報・ベンチマーク
 
+## 2026年3月メモ
+- [Shopify Sidekick 発見メモ（2026-03-06）](references/shopify-sidekick-discovery-2026-03-06.md)
+
 ## Devdegree合格者
 
 
