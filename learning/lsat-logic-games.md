@@ -62,7 +62,7 @@
 
 ## 進捗記録
 
-### 解いた問題数: 20/50（目標）
+### 解いた問題数: 21/50（目標）
 
 | 日付 | 問題ソース | 問題数 | 正答率 | 所要時間 | メモ |
 |------|-----------|--------|--------|----------|------|
@@ -82,6 +82,7 @@
 | 2026-03-04 | [BrainBashers Puzzle ZFSC](https://www.brainbashers.com/puzzle/zfsc) | 1 | - | - | 1問完了（正解） |
 | 2026-03-05 | [BrainBashers Puzzle ZTBG](https://www.brainbashers.com/puzzle/ztbg) | 1 | - | - | 難度高め。冒頭手がかりは4隻が全て別物（all-different）と読むのが正しい |
 | 2026-03-06 | [BrainBashers Puzzle ZMKA](https://www.brainbashers.com/puzzle/zmka) | 1 | - | - | 1問完了（正解） |
+| 2026-03-09 | [BrainBashers Puzzle ZIWD](https://www.brainbashers.com/puzzle/ziwd) | 1 | - | - | 1問完了（正解） |
 
 ## 学習ログ
 
@@ -152,6 +153,10 @@
 
 ### 2026-03-06
 - [BrainBashers Puzzle ZMKA](https://www.brainbashers.com/puzzle/zmka) を1問完了
+- 結果: 正解
+
+### 2026-03-09
+- [BrainBashers Puzzle ZIWD](https://www.brainbashers.com/puzzle/ziwd) を1問完了
 - 結果: 正解
 
 ### 2026-02-28（予定）
