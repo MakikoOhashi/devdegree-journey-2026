@@ -47,3 +47,8 @@
 
 ### 実績
 - WAKARUMADE iOS をひとまず審査提出完了
+
+## 2026-03-08
+
+### 実績
+- WAKARUMADE iOS 公開完了
