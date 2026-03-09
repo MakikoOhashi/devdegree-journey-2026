@@ -52,3 +52,12 @@
 
 ### 実績
 - WAKARUMADE iOS 公開完了
+
+## 2026-03-09
+
+### 実績
+- WAKARUMADE iOS `1.0.2` を審査提出
+- 変更内容: 英語版対応、Bug Fix ほか
+- WAKARUMADE LPを作成・公開
+  - URL: https://wakarumade-app.vercel.app/
+  - Repository: https://github.com/MakikoOhashi/v0-wakarumade-landing-page

@@ -117,3 +117,9 @@
 ## 2026-03-05
 
 - Ruidaichanは再レビュー返答待ち
+
+## 2026-03-09
+
+- Apple App Reviewから返信受領:
+  - "Thank you for providing this information. We will continue the review, and we will notify you if there are any further issues."
+- ステータス: レビュー継続中（追加指摘待ち）
