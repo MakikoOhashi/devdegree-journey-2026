@@ -61,3 +61,12 @@
 - WAKARUMADE LPを作成・公開
   - URL: https://wakarumade-app.vercel.app/
   - Repository: https://github.com/MakikoOhashi/v0-wakarumade-landing-page
+
+## 2026-03-10
+
+### 実績
+- WAKARUMADE AppのYouTube Shortsを初投稿
+  - URL: https://www.youtube.com/shorts/drcE4hPdPUI
+
+### 運用方針
+- 今日から毎朝、WAKARUMADEのYouTube Shortsを1本投稿する

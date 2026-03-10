@@ -49,3 +49,11 @@
 ## 2026-03-05
 
 - assignment依頼に対する返答待ち
+
+## 2026-03-10
+
+- GSoC 2026の注力先を `json-schema-org/community#980`（Ecosystem Observability）に決定
+  - https://github.com/json-schema-org/community/issues/980#issuecomment-3990318126
+- 3/17応募開始までに REQUIRED QUALIFICATION TASK を進める方針を確定
+  - Part 1: メトリクス取得POC（Node.js/TypeScript、JSON出力、可視化、README）
+  - Part 2: `projects/initial-data` の短時間評価（レビュー + 推奨方針）
