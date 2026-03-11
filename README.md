@@ -109,7 +109,7 @@ Human -> AI Agent -> API/Backend/System of Record -> Execution & Evidence
 | WAKARUMADE iOS | 公開済み / 1.0.2提出済み | LPとYouTube Shorts運用開始 | [詳細](projects/wakarumade-ios-dev-log.md) |
 | Ruidaichan | App Review継続中 | `Ready for Review`で返答待ち | [詳細](projects/ruidaichan-dev-log.md) |
 | eBay Catalog Bridge | 立ち上げ完了 / 連携作業中 | 外部アカウント準備のブロッカーあり | https://github.com/MakikoOhashi/ebay-catalog-bridge |
-| GSoC 2026 | 取り組み先決定 | `json-schema-org/community#980` Qualification Taskを進行予定 | [詳細](projects/gsoc-codelabz-dev-log.md) |
+| GSoC 2026 | 取り組み先決定 | `json-schema-org/community#980` Qualification Taskを進行予定 | [詳細](projects/gsoc-dev-log.md) |
 
 ### 学習進捗
 - **Duolingo English Test:** Writing強化中（写真描写の短文完結を重点）

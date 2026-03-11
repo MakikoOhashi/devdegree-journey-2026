@@ -1,4 +1,4 @@
-# GSoC (Codelabz) Dev Log
+# GSoC Dev Log
 
 ## 2026-03-03
 
