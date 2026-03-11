@@ -57,3 +57,8 @@
 - 3/17応募開始までに REQUIRED QUALIFICATION TASK を進める方針を確定
   - Part 1: メトリクス取得POC（Node.js/TypeScript、JSON出力、可視化、README）
   - Part 2: `projects/initial-data` の短時間評価（レビュー + 推奨方針）
+
+## 2026-03-11
+
+- `json-schema-ecosystem-metrics` リポジトリを立ち上げ
+  - Repository: https://github.com/MakikoOhashi/json-schema-ecosystem-metrics
