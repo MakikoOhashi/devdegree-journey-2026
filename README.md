@@ -95,36 +95,32 @@ Human -> AI Agent -> API/Backend/System of Record -> Execution & Evidence
 これは分析ツールではなく、  
 **人間とAIが共同で責任を取るための意思決定インフラ**として設計する。
 
-## 📊 現状 (Updated: 2026-02-12)
+## 📊 現状 (Updated: 2026-03-11)
 
 ### 基本情報
 - **前回結果:** CoderPad論理テスト不合格
 - **次回出願:** 2026年12月
-- **現在:** 社会人（先月退職）
-- https://makikoohashi.github.io/
+- **現在:** 社会人（独立開発フェーズ）
+- **Portfolio:** https://makikoohashi.github.io/
 
 ### プロジェクト進行状況
-| プロジェクト | ステータス | 期限 | ノート | リンク |
-|------------|----------|------|------|------|
-| Gemini Hackathon | 評価待ち | 2月末評価 | [詳細](projects/gemini-hackathon.md) | https://github.com/MakikoOhashi/Gemini-Expense-Tracker  | 
-| Digital Ocean Hackathon | 開発中 | 2月提出 | [詳細](projects/digital-ocean-hackathon.md) | https://github.com/MakikoOhashi/deterministic-ai-control-engine | 
-| AI Output Governance Engine | 設計整理中 | 2月 | [詳細](projects/ai-output-governance-engine.md) | - |
-| 実ユーザー獲得 | 予定 | 3月 | - | - |
-
-- https://gemini3.devpost.com/ 
-- https://devpost.com/software/gemini-powered-expense-tracker
-
-- https://digitalocean.devpost.com/
+| プロジェクト | ステータス | ノート | リンク |
+|------------|----------|------|------|
+| WAKARUMADE iOS | 公開済み / 1.0.2提出済み | LPとYouTube Shorts運用開始 | [詳細](projects/wakarumade-ios-dev-log.md) |
+| Ruidaichan | App Review継続中 | `Ready for Review`で返答待ち | [詳細](projects/ruidaichan-dev-log.md) |
+| eBay Catalog Bridge | 立ち上げ完了 / 連携作業中 | 外部アカウント準備のブロッカーあり | https://github.com/MakikoOhashi/ebay-catalog-bridge |
+| GSoC 2026 | 取り組み先決定 | `json-schema-org/community#980` Qualification Taskを進行予定 | [詳細](projects/gsoc-codelabz-dev-log.md) |
 
 ### 学習進捗
-- **Duolingo English Test:** 進行中
-- **LSAT Logic Games:** じわじわ進行中
-- **LeetCode:** Loop実装レベル目標
+- **Duolingo English Test:** Writing強化中（写真描写の短文完結を重点）
+- **LSAT Logic Games:** 22/50（品質の低い問題は不成立として切り分け）
+- **LeetCode:** 低優先で維持
 
-### 今週の目標
-- [ ] Digital Ocean Hackathon提出
-- [ ] LSAT問題5問
-- [ ] LeetCode 2問
+### 直近の優先順位
+- [ ] GSoC #980 Qualification Task（POC + 既存コード評価）
+- [ ] eBay Catalog Bridge の外部ブロッカー解除
+- [ ] WAKARUMADE Shortsの日次運用継続
+- [ ] DET Writing（4-5短文を毎回完結）
 
 ---
 
@@ -144,3 +140,4 @@ Human -> AI Agent -> API/Backend/System of Record -> Execution & Evidence
 - 2026-02-12: AI中心時代の設計前提、フロントレス戦略、Forecast × 説明責任を追記
 - 2026-02-12: AI Output Governance Engineの抽出版ドキュメントを追加
 - 2026-02-12: 思想の原点メモ（2026-01）を references/ に追加
+- 2026-03-11: 現状セクションを最新化（iOS公開/審査状況/GSoC方針/学習進捗）
