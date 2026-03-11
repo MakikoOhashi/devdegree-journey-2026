@@ -291,6 +291,14 @@
 - 記述: `I can see mountain ... blue sea ... sky is blue and clear ...` まで到達したが、時間不足で途中終了
 - 継続方針: 単数複数（`a mountain` / `the sea`）を整えつつ、短文4-5本を完結させる
 
+### 2026-03-11
+- DET Writing（Write about the photo）を1件実施
+- 記述: `I can see crowded street ... in the foreground a car ... in the background narrow streets ...`（途中切れ）
+- 改善メモ:
+  - 誤字修正: `crouded` -> `crowded`
+  - 表現修正: `backside` -> `in the background`
+  - 方針維持: 短文4本を最後まで完結させる
+
 ### 2026-02-18（予定）
 - [ ] Reading完了
 - [ ] Listening着手

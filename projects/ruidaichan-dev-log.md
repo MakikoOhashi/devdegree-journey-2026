@@ -123,3 +123,12 @@
 - Apple App Reviewから返信受領:
   - "Thank you for providing this information. We will continue the review, and we will notify you if there are any further issues."
 - ステータス: レビュー継続中（追加指摘待ち）
+
+## 2026-03-11
+
+- App Store Connect ステータス確認:
+  - Ruidaichan: `iOS 1.0 Ready for Review`
+- 判断:
+  - 2言語化（日本語/英語）は実施候補として保持
+  - ただし現時点は審査キュー優先のため、本提出は動かさず返答待ち
+  - 開発は別ブランチで準備のみ進める方針

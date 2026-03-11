@@ -70,3 +70,12 @@
 
 ### 運用方針
 - 今日から毎朝、WAKARUMADEのYouTube Shortsを1本投稿する
+
+## 2026-03-11
+
+### 状況
+- App Store Connect: `iOS 1.0.3 Waiting for Review`
+
+### 方針
+- マーケティング仮説としてインド市場を優先候補に設定
+- Android版（展開可否・実装方式）を検討開始

@@ -84,6 +84,7 @@
 | 2026-03-06 | [BrainBashers Puzzle ZMKA](https://www.brainbashers.com/puzzle/zmka) | 1 | - | - | 1問完了（正解） |
 | 2026-03-09 | [BrainBashers Puzzle ZIWD](https://www.brainbashers.com/puzzle/ziwd) | 1 | - | - | 1問完了（正解） |
 | 2026-03-10 | [BrainBashers Puzzle ZJWJ](https://www.brainbashers.com/puzzle/zjwj) | 1 | - | - | 1問完了（正解） |
+| 2026-03-11 | [BrainBashers Puzzle ZTOX](https://www.brainbashers.com/puzzle/ztox) | 0 | - | - | 問題文の前提不足で不成立（実質解けない） |
 
 ## 学習ログ
 
@@ -163,6 +164,14 @@
 ### 2026-03-10
 - [BrainBashers Puzzle ZJWJ](https://www.brainbashers.com/puzzle/zjwj) を1問完了
 - 結果: 正解
+
+### 2026-03-11
+- [BrainBashers Puzzle ZTOX](https://www.brainbashers.com/puzzle/ztox) に着手
+- 判定: 問題文の質が低く不成立
+- 理由メモ:
+  - 「各曲は異なるフォーマット（1曲1フォーマット）」
+  - 「CD・DAT・Single・Album はすべて別物」
+  - 上記2前提が明示されておらず、解が一意に定まらない
 
 ### 2026-02-28（予定）
 - [ ] 7Sage無料分挑戦
