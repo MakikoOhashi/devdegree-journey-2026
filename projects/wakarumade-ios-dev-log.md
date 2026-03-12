@@ -82,3 +82,12 @@
 
 ### 実績
 - YouTube Shortsを投稿（日課継続）
+
+## 2026-03-12
+
+### 状況
+- App Store Connect: `iOS 1.0.3 Waiting for Review`（待ち継続）
+
+### 実績
+- YouTube Shortsを投稿（日課継続）
+  - URL: https://youtube.com/shorts/61psYii-Afs

@@ -299,6 +299,14 @@
   - 表現修正: `backside` -> `in the background`
   - 方針維持: 短文4本を最後まで完結させる
 
+### 2026-03-12
+- DET Writing（Write about the photo）を1件実施
+- 記述: `I can see beautiful building ... tree with red leaves ... in the back mountain ...`（途中切れ）
+- 改善メモ:
+  - 誤字修正: `tree` は複数なら `trees`
+  - 表現修正: `in the back` -> `in the background`
+  - 方針維持: 短文4本を最後まで完結（訓練継続）
+
 ### 2026-02-18（予定）
 - [ ] Reading完了
 - [ ] Listening着手

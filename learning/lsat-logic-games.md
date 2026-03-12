@@ -62,7 +62,7 @@
 
 ## 進捗記録
 
-### 解いた問題数: 22/50（目標）
+### 解いた問題数: 23/50（目標）
 
 | 日付 | 問題ソース | 問題数 | 正答率 | 所要時間 | メモ |
 |------|-----------|--------|--------|----------|------|
@@ -85,6 +85,7 @@
 | 2026-03-09 | [BrainBashers Puzzle ZIWD](https://www.brainbashers.com/puzzle/ziwd) | 1 | - | - | 1問完了（正解） |
 | 2026-03-10 | [BrainBashers Puzzle ZJWJ](https://www.brainbashers.com/puzzle/zjwj) | 1 | - | - | 1問完了（正解） |
 | 2026-03-11 | [BrainBashers Puzzle ZTOX](https://www.brainbashers.com/puzzle/ztox) | 0 | - | - | 問題文の前提不足で不成立（実質解けない） |
+| 2026-03-12 | [BrainBashers Puzzle ZPQT](https://www.brainbashers.com/puzzle/zpqt) | 1 | - | - | 1問実施（不正解、He/Sheの読み分けが必要） |
 
 ## 学習ログ
 
@@ -172,6 +173,11 @@
   - 「各曲は異なるフォーマット（1曲1フォーマット）」
   - 「CD・DAT・Single・Album はすべて別物」
   - 上記2前提が明示されておらず、解が一意に定まらない
+
+### 2026-03-12
+- [BrainBashers Puzzle ZPQT](https://www.brainbashers.com/puzzle/zpqt) を1問実施
+- 結果: 不正解
+- メモ: `He` / `She` の代名詞読み分けが必要な問題
 
 ### 2026-02-28（予定）
 - [ ] 7Sage無料分挑戦
