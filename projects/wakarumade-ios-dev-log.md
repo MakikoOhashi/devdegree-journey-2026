@@ -101,3 +101,9 @@
 ### 実績
 - YouTube Shortsを投稿（日課継続）
   - URL: https://youtube.com/shorts/FD4bD4Bn2XQ?feature=share
+
+## 2026-03-14
+
+### 実績
+- YouTube Shortsを投稿（日課継続）
+  - URL: https://youtube.com/shorts/IjVkc2e0rbM
