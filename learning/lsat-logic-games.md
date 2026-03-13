@@ -86,6 +86,7 @@
 | 2026-03-10 | [BrainBashers Puzzle ZJWJ](https://www.brainbashers.com/puzzle/zjwj) | 1 | - | - | 1問完了（正解） |
 | 2026-03-11 | [BrainBashers Puzzle ZTOX](https://www.brainbashers.com/puzzle/ztox) | 0 | - | - | 問題文の前提不足で不成立（実質解けない） |
 | 2026-03-12 | [BrainBashers Puzzle ZPQT](https://www.brainbashers.com/puzzle/zpqt) | 1 | - | - | 1問実施（不正解、He/Sheの読み分けが必要） |
+| 2026-03-13 | [BrainBashers Puzzle ZRDF](https://www.brainbashers.com/puzzle/zrdf) | 1 | - | - | 1問実施（不正解、属性同士を先に解く手順を見落とし） |
 
 ## 学習ログ
 
@@ -178,6 +179,14 @@
 - [BrainBashers Puzzle ZPQT](https://www.brainbashers.com/puzzle/zpqt) を1問実施
 - 結果: 不正解
 - メモ: `He` / `She` の代名詞読み分けが必要な問題
+
+### 2026-03-13
+- [BrainBashers Puzzle ZRDF](https://www.brainbashers.com/puzzle/zrdf) を1問実施
+- 結果: 不正解
+- メモ:
+  - Claudeの初期判断どおり「問題の矛盾」と見たが誤り
+  - 正しくは、色ペアをすべて先に確定してから人に割り当てる手順が必要
+  - 失敗原因は「属性同士を先に解決してから人に当てはめる」順序が見えなかったこと
 
 ### 2026-02-28（予定）
 - [ ] 7Sage無料分挑戦

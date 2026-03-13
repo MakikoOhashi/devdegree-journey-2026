@@ -307,6 +307,15 @@
   - 表現修正: `in the back` -> `in the background`
   - 方針維持: 短文4本を最後まで完結（訓練継続）
 
+### 2026-03-13
+- DET Writing（意見記述）を1件実施
+- 記述: `I think modern art will make people relax ...` をベースに複数文で回答
+- 改善メモ:
+  - スペル修正: `mordern` -> `modern`, `musiums` -> `museums`, `embironmet` -> `environment`
+  - 文法修正: `There are many logics` は不自然。`There is less pressure` や `People can think freely` のような簡潔な文に置き換える
+  - 構成固定: `Opinion -> Reason 1 -> Reason 2 / Example -> Conclusion` の4ブロックで書く
+  - 方針維持: 抽象語を短文でつなぎ、1文を長くしすぎない
+
 ### 2026-02-18（予定）
 - [ ] Reading完了
 - [ ] Listening着手

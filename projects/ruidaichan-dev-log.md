@@ -137,3 +137,14 @@
 
 - App Store Connect ステータス確認:
   - Ruidaichan: `iOS 1.0 Ready for Review`（待ち継続）
+
+## 2026-03-13
+
+- App Store Connect ステータス確認:
+  - Ruidaichan: `iOS 1.0 Ready for Review`（待ち継続）
+- 作業:
+  - スクリーンショットを差し替え
+  - UIを修正
+  - 英語版の準備を開始
+- 状況:
+  - あとは承認待ち

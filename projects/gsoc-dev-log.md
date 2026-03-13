@@ -62,3 +62,11 @@
 
 - `json-schema-ecosystem-metrics` リポジトリを立ち上げ
   - Repository: https://github.com/MakikoOhashi/json-schema-ecosystem-metrics
+
+## 2026-03-13
+
+- `json-schema-ecosystem-metrics` に少々変更を追加
+  - chart output に `show analysis basis` を追加
+- 判断メモ:
+  - GSoCは既存OSSへの関与や関係性が強い応募者が有利になりやすい、という話を踏まえてモチベーションはやや低下
+  - ただしDevDegree文脈ではMLHの方が相性が良いという見立ても踏まえ、GSoCは「練習として提出まではやる」方針を維持
