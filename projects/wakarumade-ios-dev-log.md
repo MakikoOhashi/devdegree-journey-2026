@@ -116,3 +116,9 @@
 
 ### 運用方針
 - コンテンツの重心を「親子あるある」から「Tips」寄りへ移行
+
+## 2026-03-16
+
+### 実績
+- YouTube Shortsを投稿（日課継続）
+  - URL: https://www.youtube.com/shorts/1j2zH6DgYtw
