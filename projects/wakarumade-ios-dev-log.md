@@ -107,3 +107,12 @@
 ### 実績
 - YouTube Shortsを投稿（日課継続）
   - URL: https://youtube.com/shorts/IjVkc2e0rbM
+
+## 2026-03-15
+
+### 実績
+- YouTube Shortsを投稿（日課継続）
+  - URL: https://youtube.com/shorts/F2aX-YOyNjA?feature=share
+
+### 運用方針
+- コンテンツの重心を「親子あるある」から「Tips」寄りへ移行
