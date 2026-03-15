@@ -316,6 +316,15 @@
   - 構成固定: `Opinion -> Reason 1 -> Reason 2 / Example -> Conclusion` の4ブロックで書く
   - 方針維持: 抽象語を短文でつなぎ、1文を長くしすぎない
 
+### 2026-03-16
+- DET Writing（Write about the topic）を1件実施
+- 記述: `I think there are two cases ... writing is useful for us to refix the architecture of complex problems ...`
+- 改善メモ:
+  - 今回の課題は英語力そのものより、設問の意味分解ができなかったこと
+  - 設問は `When do people write? / Why do they write? / What do they enjoy? / What is difficult?` の4点に分けて読む
+  - 方針: 各設問に1文ずつ置く
+  - スペル修正例: `architecture`, `bottleneck`, `which`, `vulnerable`
+
 ### 2026-02-18（予定）
 - [ ] Reading完了
 - [ ] Listening着手

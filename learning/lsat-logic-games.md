@@ -62,7 +62,7 @@
 
 ## 進捗記録
 
-### 解いた問題数: 23/50（目標）
+### 解いた問題数: 24/50（目標）
 
 | 日付 | 問題ソース | 問題数 | 正答率 | 所要時間 | メモ |
 |------|-----------|--------|--------|----------|------|
@@ -87,6 +87,7 @@
 | 2026-03-11 | [BrainBashers Puzzle ZTOX](https://www.brainbashers.com/puzzle/ztox) | 0 | - | - | 問題文の前提不足で不成立（実質解けない） |
 | 2026-03-12 | [BrainBashers Puzzle ZPQT](https://www.brainbashers.com/puzzle/zpqt) | 1 | - | - | 1問実施（不正解、He/Sheの読み分けが必要） |
 | 2026-03-13 | [BrainBashers Puzzle ZRDF](https://www.brainbashers.com/puzzle/zrdf) | 1 | - | - | 1問実施（不正解、属性同士を先に解く手順を見落とし） |
+| 2026-03-16 | [BrainBashers Puzzle ZZPN](https://www.brainbashers.com/puzzle/zzpn) | 1 | - | - | 1問完了（正解） |
 
 ## 学習ログ
 
@@ -187,6 +188,10 @@
   - Claudeの初期判断どおり「問題の矛盾」と見たが誤り
   - 正しくは、色ペアをすべて先に確定してから人に割り当てる手順が必要
   - 失敗原因は「属性同士を先に解決してから人に当てはめる」順序が見えなかったこと
+
+### 2026-03-16
+- [BrainBashers Puzzle ZZPN](https://www.brainbashers.com/puzzle/zzpn) を1問完了
+- 結果: 正解
 
 ### 2026-02-28（予定）
 - [ ] 7Sage無料分挑戦
