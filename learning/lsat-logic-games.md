@@ -62,7 +62,7 @@
 
 ## 進捗記録
 
-### 解いた問題数: 24/50（目標）
+### 解いた問題数: 25/50（目標）
 
 | 日付 | 問題ソース | 問題数 | 正答率 | 所要時間 | メモ |
 |------|-----------|--------|--------|----------|------|
@@ -88,6 +88,7 @@
 | 2026-03-12 | [BrainBashers Puzzle ZPQT](https://www.brainbashers.com/puzzle/zpqt) | 1 | - | - | 1問実施（不正解、He/Sheの読み分けが必要） |
 | 2026-03-13 | [BrainBashers Puzzle ZRDF](https://www.brainbashers.com/puzzle/zrdf) | 1 | - | - | 1問実施（不正解、属性同士を先に解く手順を見落とし） |
 | 2026-03-16 | [BrainBashers Puzzle ZZPN](https://www.brainbashers.com/puzzle/zzpn) | 1 | - | - | 1問完了（正解） |
+| 2026-03-17 | [BrainBashers Puzzle ZNQL](https://www.brainbashers.com/puzzle/znql) | 1 | - | - | 1問実施（不正解、`only one` を直前の人物条件と読んでしまった） |
 
 ## 学習ログ
 
@@ -192,6 +193,14 @@
 ### 2026-03-16
 - [BrainBashers Puzzle ZZPN](https://www.brainbashers.com/puzzle/zzpn) を1問完了
 - 結果: 正解
+
+### 2026-03-17
+- [BrainBashers Puzzle ZNQL](https://www.brainbashers.com/puzzle/znql) を1問実施
+- 結果: 不正解
+- メモ:
+  - `came first / came second / came last` は順位を表す
+  - `DJ Skinf Lint came first, and only one DJ wore the same number as the position he finished in.` の `only one` は Skinf Lint 個人ではなく、4人全体にかかる条件
+  - 読み違いの原因は、全体条件を直前の人物条件として読んでしまったこと
 
 ### 2026-02-28（予定）
 - [ ] 7Sage無料分挑戦

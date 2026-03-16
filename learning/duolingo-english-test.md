@@ -325,6 +325,15 @@
   - 方針: 各設問に1文ずつ置く
   - スペル修正例: `architecture`, `bottleneck`, `which`, `vulnerable`
 
+### 2026-03-17
+- DET Writing（Write about the topic）を1件実施
+- 記述: `I prefer to sleep for dealing with stress ... There are two main reasons ...`
+- 改善メモ:
+  - 立場と理由2つは明確で、構成はよい
+  - 次の改善点は `specific details and examples` を1文追加すること
+  - 例: `For example, when I am worried about work, I take a short nap and I can think more clearly after that.`
+  - 表現修正例: `if I awake` -> `if I stay awake`, `It is tiredsome` -> `It is tiring`, `Good physical status` -> `Good physical condition`
+
 ### 2026-02-18（予定）
 - [ ] Reading完了
 - [ ] Listening着手
