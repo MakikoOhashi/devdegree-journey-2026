@@ -54,3 +54,16 @@ DevpostのDigitalOcean Hackathonに `Stable Difficulty Generation Engine` とし
   - Othersセクションに以下を追記
     - Stable Difficulty Generation Engine
     - Audit Risk Forecast Tracker
+
+## 2026-03-17
+
+### Summary
+DigitalOcean Hackathon 側からライセンス追加依頼コメントがあり、対応。提出物ではリポジトリ先頭でライセンスを明示する必要があることを学んだ。
+
+### What I Did
+- DigitalOcean Hackathon からのライセンス追加依頼コメントを確認
+- 提出リポジトリ側でライセンス対応を実施
+
+### Learning
+- ハッカソン提出物では、ライセンスを付けるだけでなく、リポジトリ冒頭で明示されていることが重要
+- 今後のハッカソン提出では、提出前チェック項目に「ライセンス明示」を入れる
