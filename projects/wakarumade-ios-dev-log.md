@@ -128,3 +128,9 @@
 ### 実績
 - YouTube Shortsを投稿（日課継続）
   - URL: https://youtube.com/shorts/ibsKwlkVAvE?feature=share
+
+## 2026-03-18
+
+### 実績
+- ダウンロード発生を受けて、Supabase のカラムを追加
+- 利用状況を分析可能な状態へ調整

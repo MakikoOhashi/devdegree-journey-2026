@@ -334,6 +334,15 @@
   - 例: `For example, when I am worried about work, I take a short nap and I can think more clearly after that.`
   - 表現修正例: `if I awake` -> `if I stay awake`, `It is tiredsome` -> `It is tiring`, `Good physical status` -> `Good physical condition`
 
+### 2026-03-18
+- DET Writing（Write about the topic）を1件実施
+- 記述: `When I woke up in the early morning, I found the sky is shining with the rising sun ...`
+- 改善メモ:
+  - 今回は内容自体は良く、体験・情景・感情が入っている
+  - 次の改善点は、長さを増やすことより「いつ / 何がきれいだったか / どう感じたか / なぜ特別だったか」を4文で完結させること
+  - 方針: `It happened when ... / I saw ... / The air or sky was ... / I felt ... / It was special because ...`
+  - 表現修正例: `ordinary`, `there was no one on the street`, `the sky was shining`
+
 ### 2026-02-18（予定）
 - [ ] Reading完了
 - [ ] Listening着手
