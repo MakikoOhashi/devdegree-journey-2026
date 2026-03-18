@@ -70,3 +70,12 @@
 - 判断メモ:
   - GSoCは既存OSSへの関与や関係性が強い応募者が有利になりやすい、という話を踏まえてモチベーションはやや低下
   - ただしDevDegree文脈ではMLHの方が相性が良いという見立ても踏まえ、GSoCは「練習として提出まではやる」方針を維持
+
+## 2026-03-18
+
+- GSoC 2026 の proposal 登録を完了
+- Organization: `JSON Schema`
+- Proposal 締切: `2026-04-01`
+- 方針:
+  - 現在の Coaching Company / Airia 側の区切りがついたら、GSoC proposal 作成へ移行
+  - problem / solution / deliverables / technologies / PDF を順に固める

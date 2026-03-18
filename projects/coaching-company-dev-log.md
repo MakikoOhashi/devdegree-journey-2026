@@ -50,3 +50,14 @@
 
 ### Plan
 - Company 部分を Airia 文脈も含めて完成させる予定
+
+### Progress
+- Airia 登録からフロー作成まで完了
+- 社長の流れまで接続
+- Community に提出し、承認待ち
+  - Status: `Pending Review`
+  - Version: `2.00`
+  - Name: `Makiko Ohashi`
+  - ID: `0654594e-71a8-44cf-82bc-b8954ba644e0`
+- フロントを Cloudflare Pages にデプロイ
+  - URL: https://coaching-company.pages.dev/

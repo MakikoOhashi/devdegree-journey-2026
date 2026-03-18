@@ -343,6 +343,15 @@
   - 方針: `It happened when ... / I saw ... / The air or sky was ... / I felt ... / It was special because ...`
   - 表現修正例: `ordinary`, `there was no one on the street`, `the sky was shining`
 
+### 2026-03-19
+- DET Writing（Write about the topic）を1件実施
+- 記述: `People do activities like culture circle there ...`
+- 改善メモ:
+  - 今回の課題は「何を書けばいいかわからない」ではなく、設問を3つに分けられなかったこと
+  - 設問は `どんな特徴があると良いか / 人はそこで何をするか / なぜ魅力的なのか` に分解して読む
+  - 方針: `A good public space should have ... / People can ... / It is engaging because ... / For example ... / In conclusion ...`
+  - 表現修正例: `community activities`, `people they are interested in`, `strengthen the community`, `if someone is having a hard time`
+
 ### 2026-02-18（予定）
 - [ ] Reading完了
 - [ ] Listening着手

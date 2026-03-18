@@ -62,7 +62,7 @@
 
 ## 進捗記録
 
-### 解いた問題数: 26/50（目標）
+### 解いた問題数: 27/50（目標）
 
 | 日付 | 問題ソース | 問題数 | 正答率 | 所要時間 | メモ |
 |------|-----------|--------|--------|----------|------|
@@ -90,6 +90,7 @@
 | 2026-03-16 | [BrainBashers Puzzle ZZPN](https://www.brainbashers.com/puzzle/zzpn) | 1 | - | - | 1問完了（正解） |
 | 2026-03-17 | [BrainBashers Puzzle ZNQL](https://www.brainbashers.com/puzzle/znql) | 1 | - | - | 1問実施（不正解、`only one` を直前の人物条件と読んでしまった） |
 | 2026-03-18 | [BrainBashers Puzzle ZNLA](https://www.brainbashers.com/puzzle/znla) | 1 | - | - | 1問完了（正解） |
+| 2026-03-19 | [BrainBashers Puzzle ZINR](https://www.brainbashers.com/puzzle/zinr) | 1 | - | - | 1問完了（正解） |
 
 ## 学習ログ
 
@@ -205,6 +206,10 @@
 
 ### 2026-03-18
 - [BrainBashers Puzzle ZNLA](https://www.brainbashers.com/puzzle/znla) を1問完了
+- 結果: 正解
+
+### 2026-03-19
+- [BrainBashers Puzzle ZINR](https://www.brainbashers.com/puzzle/zinr) を1問完了
 - 結果: 正解
 
 ### 2026-02-28（予定）
