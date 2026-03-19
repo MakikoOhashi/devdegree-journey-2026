@@ -62,7 +62,7 @@
 
 ## 進捗記録
 
-### 解いた問題数: 27/50（目標）
+### 解いた問題数: 28/50（目標）
 
 | 日付 | 問題ソース | 問題数 | 正答率 | 所要時間 | メモ |
 |------|-----------|--------|--------|----------|------|
@@ -91,6 +91,7 @@
 | 2026-03-17 | [BrainBashers Puzzle ZNQL](https://www.brainbashers.com/puzzle/znql) | 1 | - | - | 1問実施（不正解、`only one` を直前の人物条件と読んでしまった） |
 | 2026-03-18 | [BrainBashers Puzzle ZNLA](https://www.brainbashers.com/puzzle/znla) | 1 | - | - | 1問完了（正解） |
 | 2026-03-19 | [BrainBashers Puzzle ZINR](https://www.brainbashers.com/puzzle/zinr) | 1 | - | - | 1問完了（正解） |
+| 2026-03-20 | [BrainBashers Puzzle ZGSB](https://www.brainbashers.com/puzzle/zgsb) | 1 | - | - | 1問実施（不正解、全属性を埋めようとして詰まった。犯人特定だけで十分だった） |
 
 ## 学習ログ
 
@@ -211,6 +212,14 @@
 ### 2026-03-19
 - [BrainBashers Puzzle ZINR](https://www.brainbashers.com/puzzle/zinr) を1問完了
 - 結果: 正解
+
+### 2026-03-20
+- [BrainBashers Puzzle ZGSB](https://www.brainbashers.com/puzzle/zgsb) を1問実施
+- 結果: 不正解
+- メモ:
+  - 今回は全員の属性を埋め切る必要はなく、犯人特定だけで十分だった
+  - `black car -> blue shoes -> 190 pounds -> not red hair` の連鎖で候補を消していくタイプ
+  - 全表を埋めようとして重くしすぎた
 
 ### 2026-02-28（予定）
 - [ ] 7Sage無料分挑戦

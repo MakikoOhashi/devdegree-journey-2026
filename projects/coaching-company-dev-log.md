@@ -61,3 +61,13 @@
   - ID: `0654594e-71a8-44cf-82bc-b8954ba644e0`
 - フロントを Cloudflare Pages にデプロイ
   - URL: https://coaching-company.pages.dev/
+
+## 2026-03-20
+
+### Result
+- Airia Hackathon へ提出完了
+- デモ動画を短時間で作成して提出まで完了
+
+### Note
+- 締切4時間前での提出
+- まだ磨き込み余地はあるが、ひとまず形にして区切りをつけた
