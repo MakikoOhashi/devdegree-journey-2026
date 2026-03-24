@@ -352,6 +352,22 @@
   - 方針: `A good public space should have ... / People can ... / It is engaging because ... / For example ... / In conclusion ...`
   - 表現修正例: `community activities`, `people they are interested in`, `strengthen the community`, `if someone is having a hard time`
 
+### 2026-03-23
+- DET Writing（Write about the topic）を1件実施
+- 記述: `Thanks to the cell phone text messaging, we can send the text without thinking of the receiver situation ...`
+- 改善メモ:
+  - 今回は「返信を急がなくてよい」「送る前に考え直せる」の理由2つが出せていて内容は良い
+  - 方針: `Texting has changed communication in several ways. / First ... / Second ... / For example ... / In conclusion ...`
+  - 表現修正例: `the receiver’s situation`, `available`, `allows people to think more carefully`, `rewrite a message before sending it`
+
+### 2026-03-24
+- DET Writing（Write about the topic）を1件実施
+- 記述: `I think the people write something because they want to express or ...`
+- 改善メモ:
+  - 今回は `いつ / なぜ` は出せていたが、`enjoy` と `challenge` が抜けた
+  - `organize` が出なくても、`sort their thoughts`, `make their ideas clear`, `put their thoughts into words` で十分言い換え可能
+  - 方針: 設問が4点なら、それぞれ1文ずつ置く
+
 ### 2026-02-18（予定）
 - [ ] Reading完了
 - [ ] Listening着手

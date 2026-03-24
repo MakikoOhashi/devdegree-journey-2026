@@ -6,7 +6,7 @@
 - Rating 1400+
 
 ## 進捗
-- 解いた問題数: 0
+- 解いた問題数: 1
 - 目標: 基本的なループ実装
 - 現在Rating: -（未計測）
 
@@ -28,3 +28,11 @@
 ## 学習ログ
 ### 2026-02-11
 - [記載予定]
+
+### 2026-03-24
+- `30 Days of JavaScript` を開始
+- `Create Hello World Function` を Accepted
+- 学び:
+  - `args` は関数に渡される引数
+  - `return function(...args): string { ... }` は「引数をいくつでも受け取り、文字列を返す関数を返す」という意味
+  - 今回は中身は `return "Hello World";` だけでよかった

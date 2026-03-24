@@ -62,7 +62,7 @@
 
 ## 進捗記録
 
-### 解いた問題数: 28/50（目標）
+### 解いた問題数: 30/50（目標）
 
 | 日付 | 問題ソース | 問題数 | 正答率 | 所要時間 | メモ |
 |------|-----------|--------|--------|----------|------|
@@ -92,6 +92,8 @@
 | 2026-03-18 | [BrainBashers Puzzle ZNLA](https://www.brainbashers.com/puzzle/znla) | 1 | - | - | 1問完了（正解） |
 | 2026-03-19 | [BrainBashers Puzzle ZINR](https://www.brainbashers.com/puzzle/zinr) | 1 | - | - | 1問完了（正解） |
 | 2026-03-20 | [BrainBashers Puzzle ZGSB](https://www.brainbashers.com/puzzle/zgsb) | 1 | - | - | 1問実施（不正解、全属性を埋めようとして詰まった。犯人特定だけで十分だった） |
+| 2026-03-23 | [BrainBashers Puzzle ZYOT](https://www.brainbashers.com/puzzle/zyot) | 1 | - | - | 1問実施（不正解、自己言及型の整合確認と英語読解で詰まった） |
+| 2026-03-24 | [BrainBashers Puzzle ZVGV](https://www.brainbashers.com/puzzle/zvgv) | 1 | - | - | 初回は読み違えたが、2回目にやり直して正解 |
 
 ## 学習ログ
 
@@ -220,6 +222,18 @@
   - 今回は全員の属性を埋め切る必要はなく、犯人特定だけで十分だった
   - `black car -> blue shoes -> 190 pounds -> not red hair` の連鎖で候補を消していくタイプ
   - 全表を埋めようとして重くしすぎた
+
+### 2026-03-23
+- [BrainBashers Puzzle ZYOT](https://www.brainbashers.com/puzzle/zyot) を1問実施
+- 結果: 不正解
+- メモ:
+  - 各選択肢を仮置きして、全体として矛盾がないかを確認する自己言及型の問題だった
+  - `The number of questions that have D` は「正解が D である問題の数」という意味
+  - 条件文を普通の属性パズルとして見ず、整合する選択肢の組を探す発想が必要だった
+
+### 2026-03-24
+- [BrainBashers Puzzle ZVGV](https://www.brainbashers.com/puzzle/zvgv) を実施
+- 結果: 初回は読み違えたが、2回目にやり直して正解
 
 ### 2026-02-28（予定）
 - [ ] 7Sage無料分挑戦

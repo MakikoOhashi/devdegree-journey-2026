@@ -146,3 +146,24 @@
 ### 実績
 - YouTube Shortsを投稿（日課継続）
   - URL: https://youtube.com/shorts/mYDkUzRLyNM?feature=share
+
+## 2026-03-21
+
+### 実績
+- Threads 初投稿を実施（運用開始）
+- YouTube Shortsを投稿（日課継続）
+  - URL: https://youtube.com/shorts/OYtaIexiP7k?feature=share
+
+## 2026-03-22
+
+### 実績
+- 英語版 YouTube Shorts を投稿
+  - URL: https://youtube.com/shorts/PJuaDZ7efxw?feature=share
+
+## 2026-03-23
+
+### 実績
+- 日本語版 YouTube Shorts を投稿
+  - URL: https://youtube.com/shorts/WSr5vubkH0c?feature=share
+- 英語版 YouTube Shorts を投稿
+  - URL: https://youtube.com/shorts/FUzGk0H7fMs?feature=share
