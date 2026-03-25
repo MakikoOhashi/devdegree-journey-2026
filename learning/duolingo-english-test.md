@@ -368,6 +368,24 @@
   - `organize` が出なくても、`sort their thoughts`, `make their ideas clear`, `put their thoughts into words` で十分言い換え可能
   - 方針: 設問が4点なら、それぞれ1文ずつ置く
 
+### 2026-03-25
+- DET Writing（Write about the topic）を1件実施
+- 記述: `I saw a beautiful sunrise when I raise new born child ...`
+- 改善メモ:
+  - 以前より、体験・情景・感情をつなげて書けている
+  - `newborn child`, `early morning`, `clear sky` など、場面の具体性が出せていた
+  - 次は文法を少し整えるだけで、かなり読みやすくなる
+  - 方針: `I saw ... / It was ... / I woke up because ... / Although ... / It gave me hope ...` の流れで短く完結
+
+### 2026-03-26
+- DET Writing（Write about the topic）を1件実施
+- 記述: `I think the best way to reduce stress is to sleep ...`
+- 改善メモ:
+  - 意見が明確で、理由・比較・結論まで出せていた
+  - 次は `specific details` を1文もっと具体化すると強い
+  - `for everyone` より `for me` の方が安全
+  - 表現修正例: `our mind becomes more positive`, `The same is true for listening to music`
+
 ### 2026-02-18（予定）
 - [ ] Reading完了
 - [ ] Listening着手

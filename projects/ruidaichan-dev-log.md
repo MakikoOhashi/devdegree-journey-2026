@@ -153,3 +153,10 @@
 
 - Ruidaichan 公開完了
   - App Store: https://apps.apple.com/jp/app/%E3%82%8B%E3%81%84%E3%81%A0%E3%81%84%E3%81%A1%E3%82%83%E3%82%93/id6759811359
+
+## 2026-03-25
+
+- Ruidaichan LP を公開
+  - URL: https://ruidaichan-lp.pages.dev
+  - Cloudflare Pages でデプロイ
+  - 日本語 / 英語の両対応で公開

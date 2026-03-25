@@ -6,7 +6,7 @@
 - Rating 1400+
 
 ## 進捗
-- 解いた問題数: 1
+- 解いた問題数: 2
 - 目標: 基本的なループ実装
 - 現在Rating: -（未計測）
 
@@ -36,3 +36,11 @@
   - `args` は関数に渡される引数
   - `return function(...args): string { ... }` は「引数をいくつでも受け取り、文字列を返す関数を返す」という意味
   - 今回は中身は `return "Hello World";` だけでよかった
+
+### 2026-03-25
+- `Counter` を Accepted
+- URL: https://leetcode.com/problems/counter/submissions/1958239744/?envType=study-plan-v2&envId=30-days-of-javascript
+- 学び:
+  - 毎回1ずつ変わる処理は、まず `increment` を考える
+  - `return n++;` は「今の値を返してから増やす」
+  - `return n = n + 1;` は文法上はありだが、返る値が1つ先に進むので今回の期待とは違う
