@@ -386,6 +386,13 @@
   - `for everyone` より `for me` の方が安全
   - 表現修正例: `our mind becomes more positive`, `The same is true for listening to music`
 
+### 2026-03-27
+- DET Writing（Write about the topic）を1件実施
+- 今回がこの形式の初Writing
+- メモ:
+  - `tool` は鉛筆そのものではなく、書くための手段・媒介として読む
+  - まずは設問の意図を掴んで、あとは具体例を足す方針で進める
+
 ### 2026-02-18（予定）
 - [ ] Reading完了
 - [ ] Listening着手

@@ -6,7 +6,7 @@
 - Rating 1400+
 
 ## 進捗
-- 解いた問題数: 2
+- 解いた問題数: 3
 - 目標: 基本的なループ実装
 - 現在Rating: -（未計測）
 
@@ -44,3 +44,22 @@
   - 毎回1ずつ変わる処理は、まず `increment` を考える
   - `return n++;` は「今の値を返してから増やす」
   - `return n = n + 1;` は文法上はありだが、返る値が1つ先に進むので今回の期待とは違う
+
+### 2026-03-26
+- `To Be Or Not To Be` に着手
+- 学び:
+  - `type ToBeOrNotToBe = { ... }` は、`toBe` と `notToBe` を持つオブジェクトの形を定義している
+  - `expect` は定型語ではなく、ここで定義される関数名
+  - `other` は比較相手として後から渡される引数名で、名前自体は何でもよい
+  - `const` は新しく変数を作る時に必要で、関数の引数には不要
+  - 今回は `return false` ではなく、失敗時に `throw new Error(...)` が必要
+  - `toBe` と `notToBe` は両方をまとめたオブジェクトとして返す
+
+### 2026-03-27
+- `Counter II` を Accepted
+- URL: https://leetcode.com/problems/counter-ii/submissions/1960374080/?envType=study-plan-v2&envId=30-days-of-javascript
+- 学び:
+  - `Counter` 型は `number` を返す関数を持つオブジェクトの形
+  - `createCounter` は数値ではなく `increment / decrement / reset` を持つオブジェクトを返す
+  - `=>` の1行式は暗黙の return になる
+  - `reset` のように `{}` で書く場合は明示的な `return` が必要

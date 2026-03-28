@@ -94,6 +94,7 @@
 | 2026-03-20 | [BrainBashers Puzzle ZGSB](https://www.brainbashers.com/puzzle/zgsb) | 1 | - | - | 1問実施（不正解、全属性を埋めようとして詰まった。犯人特定だけで十分だった） |
 | 2026-03-23 | [BrainBashers Puzzle ZYOT](https://www.brainbashers.com/puzzle/zyot) | 1 | - | - | 1問実施（不正解、自己言及型の整合確認と英語読解で詰まった） |
 | 2026-03-24 | [BrainBashers Puzzle ZVGV](https://www.brainbashers.com/puzzle/zvgv) | 1 | - | - | 初回は読み違えたが、2回目にやり直して正解 |
+| 2026-03-27 | [BrainBashers Puzzle ZGXF](https://www.brainbashers.com/puzzle/zgxf) | 1 | - | - | 正解。情報整理できるかどうかだけで解けた |
 
 ## 学習ログ
 
@@ -318,6 +319,11 @@
 - 学び:
   - `the first question where c) is the correct answer` は「`c` が最初に正解になっている問題」の意味
   - 4問のうちどれか1つだけ合っていればよいのではなく、4問すべての答えが同時に整合する組み合わせを探す
+
+### 2026-03-27
+- [BrainBashers Puzzle ZGXF](https://www.brainbashers.com/puzzle/zgxf) を1問完了
+- 正解
+- メモ: 情報整理できるかどうかだけで解けた
   - 自己言及型は、即矛盾する選択肢を先に潰すのが有効
   - 今回は問題文の意味把握に時間がかかった。慣れも必要
 

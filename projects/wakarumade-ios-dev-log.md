@@ -167,3 +167,8 @@
   - URL: https://youtube.com/shorts/WSr5vubkH0c?feature=share
 - 英語版 YouTube Shorts を投稿
   - URL: https://youtube.com/shorts/FUzGk0H7fMs?feature=share
+
+## 2026-03-29
+
+### 実績
+- YouTube Shortsを投稿（日課継続）
