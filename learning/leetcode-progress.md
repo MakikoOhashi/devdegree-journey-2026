@@ -63,3 +63,14 @@
   - `createCounter` は数値ではなく `increment / decrement / reset` を持つオブジェクトを返す
   - `=>` の1行式は暗黙の return になる
   - `reset` のように `{}` で書く場合は明示的な `return` が必要
+
+### 2026-03-30
+- `Apply Transform Over Each Element in Array` に着手
+- 学び:
+  - `function map(arr: number[], fn: (n: number, i: number) => number): number[]` が言っているのは、型の形だけ
+  - `n` と `i` は引数名で、名前自体は仮のもの
+  - `n` が値で `i` が index になるのは、型だけではなく `map` の仕様と実際の呼び出し方で決まる
+  - `fn` は各要素に適用するために外から渡される関数
+  - `push` は配列に値を追加するためのメソッド
+  - `return` がないと、材料が渡されても結果の配列は返らない
+  - まだ自力で書ける感覚は薄いが、`型 / 文脈 / 実装` を分けて考える練習になった

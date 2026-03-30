@@ -218,6 +218,22 @@
 - [公式Practice](https://englishtest.duolingo.com/practice) の Read and Select を2件実施
 - Read and Select 現状: 6/6（全問完了）
 
+### 2026-03-30
+- DET Writing を実施
+- Topic: regular exercise の benefits
+- 内容の方向性:
+  - stress reduction
+  - illness prevention
+  - office work / sitting too long
+- Follow-up:
+  - 日常生活に exercise を入れるには、次の駅まで歩くなど small steps が有効
+  - hard workouts は続きにくいという整理
+- 学び:
+  - `illness` は病気そのものを指す名詞
+  - `sick` は人の状態を表す形容詞
+  - 今回の文脈では `Exercise helps prevent illness.` のように `illness` が自然
+  - 内容は出せているので、課題は引き続き文法の整えと自然な言い回し
+
 ### 2026-02-16
 - DET Reading の Fill in the blanks を1件実施
 - Fill in the blanks 現状: 5/6

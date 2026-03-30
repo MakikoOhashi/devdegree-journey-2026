@@ -62,7 +62,7 @@
 
 ## 進捗記録
 
-### 解いた問題数: 30/50（目標）
+### 解いた問題数: 31/50（目標）
 
 | 日付 | 問題ソース | 問題数 | 正答率 | 所要時間 | メモ |
 |------|-----------|--------|--------|----------|------|
@@ -95,6 +95,7 @@
 | 2026-03-23 | [BrainBashers Puzzle ZYOT](https://www.brainbashers.com/puzzle/zyot) | 1 | - | - | 1問実施（不正解、自己言及型の整合確認と英語読解で詰まった） |
 | 2026-03-24 | [BrainBashers Puzzle ZVGV](https://www.brainbashers.com/puzzle/zvgv) | 1 | - | - | 初回は読み違えたが、2回目にやり直して正解 |
 | 2026-03-27 | [BrainBashers Puzzle ZGXF](https://www.brainbashers.com/puzzle/zgxf) | 1 | - | - | 正解。情報整理できるかどうかだけで解けた |
+| 2026-03-30 | [BrainBashers Puzzle ZGQN](https://www.brainbashers.com/puzzle/zgqn) | 1 | - | - | `more likely` を候補枚数比較で読む必要があり、英文条件の読み取りで詰まった |
 
 ## 学習ログ
 
@@ -235,6 +236,14 @@
 ### 2026-03-24
 - [BrainBashers Puzzle ZVGV](https://www.brainbashers.com/puzzle/zvgv) を実施
 - 結果: 初回は読み違えたが、2回目にやり直して正解
+
+### 2026-03-30
+- [BrainBashers Puzzle ZGQN](https://www.brainbashers.com/puzzle/zgqn) を実施
+- 結果: 問題文の読み取りで詰まった
+- メモ:
+  - `more likely to beat yours` は、残っている候補の中で「勝つ枚数」と「負ける枚数」を比べる意味
+  - `if A, then B. Otherwise, it isn't.` のような英文条件の切り方に慣れが必要
+  - CoderPad の文章論理テストにも、論理そのものより英文条件の読み取り訓練としては役立つ
 
 ### 2026-02-28（予定）
 - [ ] 7Sage無料分挑戦

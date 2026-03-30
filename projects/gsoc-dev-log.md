@@ -79,3 +79,14 @@
 - 方針:
   - 現在の Coaching Company / Airia 側の区切りがついたら、GSoC proposal 作成へ移行
   - problem / solution / deliverables / technologies / PDF を順に固める
+
+## 2026-03-30
+
+- GSoC proposal を提出完了
+- Repository: https://github.com/MakikoOhashi/json-schema-ecosystem-metrics
+- 所感:
+  - 思うところまで詰め切れた感覚ではなかった
+  - ただし締切前に一区切りとして提出まで持っていった
+- 補助メモ:
+  - 必要資料は Notion に保存
+  - `GSoC提出済み` として整理
