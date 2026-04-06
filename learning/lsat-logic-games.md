@@ -345,6 +345,29 @@
   - その後で各 gardener の条件に当てはめると解きやすい
   - 「属性同士を先に確定してから人に割り当てる」型の再確認
 
+### 2026-03-31
+- https://www.brainbashers.com/puzzle/zvjv
+- 学び:
+  - `My card would beat a Green King.` のような最初の条件で、まず候補集合を作ってから次の条件を読む
+  - `more likely` は、その時点で残っている候補枚数の比較として読む
+  - 前の条件で絞った候補集合に対して次の条件をかける、という流れが見えた
+  - 途中からは一人で進められた
+
+### 2026-04-01
+- https://www.brainbashers.com/puzzle/zgdd
+- まだ全候補を出し切るところまでは行かなかった
+- 学び:
+  - `Green King` を落とすところまでは自力で進められた
+  - 全候補を最初から完璧に並べるのはまだ重いが、条件から1枚ずつ消す読みはできている
+  - 部分的にでも正しく候補を削れるのは前進
+
+### 2026-04-02
+- https://www.brainbashers.com/puzzle/zjlx
+- 学び:
+  - `The athlete who came second on the beam won the floor.` の条件を見落とすと進まなくなる
+  - 条件を拾い直すことで最後まで確定できた
+  - 最後の2人が残った場面でも、`Emery beat Alex in every event.` のような相対条件を使うと順番まで確定する
+
 ### 料金・実施方針メモ
 - Devdegree対策では、LSATは無料練習範囲を優先活用
 - 正式受験スコア取得は必要になった時点で判断

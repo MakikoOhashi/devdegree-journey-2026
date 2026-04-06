@@ -160,3 +160,9 @@
   - URL: https://ruidaichan-lp.pages.dev
   - Cloudflare Pages でデプロイ
   - 日本語 / 英語の両対応で公開
+
+## 2026-04-06
+
+- Ruidaichan の翻訳対応を公開
+- update を反映
+- 課金路線はまだ未着手

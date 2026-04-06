@@ -74,3 +74,40 @@
   - `push` は配列に値を追加するためのメソッド
   - `return` がないと、材料が渡されても結果の配列は返らない
   - まだ自力で書ける感覚は薄いが、`型 / 文脈 / 実装` を分けて考える練習になった
+
+### 2026-03-31
+- `Filter Elements from Array` を Submit
+- 学び:
+  - `filter` は `map` と違って、各要素を変換するのではなく「残すかどうか」を判定する
+  - `if (fn(arr[i], i))` は、`fn` の結果が truthy ならその元の値 `arr[i]` を残す、という意味
+  - `result.push(arr[i])` で入れているのは index ではなく元の値
+  - `fn` があるだけで filter になるのではなく、`if` で条件判定として使っているから filter と分かる
+  - まだ自力で書ける感覚は薄いが、`map` と `filter` の違いは少し見えてきた
+
+### 2026-04-01
+- `Array Reduce Transformation` を実施
+- URL: https://leetcode.com/problems/array-reduce-transformation/submissions/1965310915/?envType=study-plan-v2&envId=30-days-of-javascript
+- 学び:
+  - `init` は型だけでは意味が決まらず、実際の呼び出しで渡される開始値
+  - `let result = init;` は、その開始値から累積結果を始めるという意味
+  - `i` は index、`nums[i]` はその index に入っている値
+  - `fn(result, nums[i])` は「前回までの答え」と「今の値」を使って次の答えを作る
+  - `reduce` は配列を最終的に1つの値にたたむ処理
+
+### 2026-04-02
+- `Function Composition` に着手
+- 学び:
+  - `function compose(functions: F[]): F` だけでは右から左は決まらず、問題の仕様としてそう実装する必要がある
+  - `compose` は外側で関数を返し、実際の `for` ループは返された内側の関数の中に入る
+  - `for (let i = functions.length - 1; i >= 0; i--)` は、右端の関数から順に result を更新するための書き方
+  - 実装は1つではなく、`for` / `reduceRight` / 再帰など複数ありうる
+  - 今の段階では「自分で一発で書けること」より「いろんな書き方を見ても意味が読めること」が大事だと整理
+
+### 2026-04-03
+- `Return Length of Arguments Passed` を実施
+- URL: https://leetcode.com/problems/return-length-of-arguments-passed/submissions/1967213570/?envType=study-plan-v2&envId=30-days-of-javascript
+- 学び:
+  - `...args` は可変長引数で、渡された引数が配列 `args` にまとまる
+  - 今回数えるのは `JSONValue` の中身ではなく、引数の個数
+  - `.length` は「最初から最後まで」ではなく、配列に入っている要素数
+  - 今回は `return args.length;` だけでよかった

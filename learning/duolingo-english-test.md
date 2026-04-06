@@ -409,6 +409,55 @@
   - `tool` は鉛筆そのものではなく、書くための手段・媒介として読む
   - まずは設問の意図を掴んで、あとは具体例を足す方針で進める
 
+### 2026-03-31
+- DET Writing（Write about the topic）を1件実施
+- 記述: `That day was the ordinal weekday ...`
+- 改善メモ:
+  - 子どもたちがいつも通り出て、カフェで集中でき、提出まで進めた日として場面はかなり具体的に書けていた
+  - `ordinary weekday` が自然で、`ordinal weekday` は不自然
+  - `I use as my workspace`, `concentrate on building my app`, `time flew by` などの自然な言い回しを確認
+  - `There was no disturbance.` の感覚は良く、`there were no interruptions` とするとさらに自然
+  - 今回も内容は十分出せていて、課題は文法と自然な表現の整え
+
+### 2026-04-01
+- DET Writing（Write about the topic）を1件実施
+- 記述: `I think it's important for students to engage with their local community ...`
+- 改善メモ:
+  - 理由が2つ明確で、学生側と地域側の両方に触れられていた
+  - follow-up では、地域の多様な人に触れることが study や product を考える視点につながるという、自分らしい内容が出せていた
+  - `people of different ages`, `it will help`, `social circumstances` などの自然な表現を確認
+  - 今回も内容はかなり良く、課題は文法と自然な英語表現の整え
+
+### 2026-04-02
+- DET Writing（Write about the topic）を1件実施
+- 記述: `I think walking around the city is the good activity ...`
+- 改善メモ:
+  - `walking around the city` を活動として選び、子ども向け・高齢者向けの理由を分けて書けていた
+  - 四季の変化や neighborhood との接点まで入れられていて、内容の軸は良かった
+  - `waking` ではなく `walking`、`stroller`, `older people`, `neighborhood` などの自然な表現を確認
+  - `elder` は年上・年長の意味はあるが、この文脈では `older people` の方が自然
+  - 今回も設定は苦しかったが、内容は十分出せていて、課題は文法と自然な英語表現の整え
+
+### 2026-04-03
+- DET Writing（Write about the topic）を1件実施
+- 記述: `I think parks and plazas are important for the community ...`
+- 改善メモ:
+  - 公共空間が世代や背景の違う人を混ぜる理由を、子ども・高齢者・家と職場以外の接点という流れで書けていた
+  - follow-up では、街の plaza の food festival を具体例として出せた
+  - `the diversity of the community`, `people from different backgrounds`, `multicultural atmosphere` などの自然な表現を確認
+  - 内容の軸はかなり良く、引き続き課題は文法と自然な英語表現の整え
+
+### 2026-04-06
+- DET Writing（Write about the topic）を1件実施
+- 記述: `I think we write to organize one's thought ...`
+- 改善メモ:
+  - 書く理由として `organize thoughts`, `oral communication との違い`, `writing remains for a long time` を出せていて、内容の方向はかなり良かった
+  - `AI writing` を challenge に入れたのも自分らしい視点だった
+  - main response は途中で切れてしまったので、最後まで閉じる必要があった
+  - follow-up では `feedback`, `meaning in writing`, `AI reader でも motivator になる` という軸が出せていた
+  - `ask for feedback`, `find meaning in their writing`, `enjoy writing` などの自然な表現を確認
+  - 今回も内容の軸は良く、引き続き課題は文法と自然な表現の整え
+
 ### 2026-02-18（予定）
 - [ ] Reading完了
 - [ ] Listening着手
