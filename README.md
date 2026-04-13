@@ -158,32 +158,33 @@ Human -> AI Agent -> API/Backend/System of Record -> Execution & Evidence
 これは分析ツールではなく、  
 **人間とAIが共同で責任を取るための意思決定インフラ**として設計する。
 
-## 📊 現状 (Updated: 2026-03-11)
+## 📊 現状 (Updated: 2026-04-13)
 
 ### 基本情報
-- **前回結果:** CoderPad論理テスト不合格
+- **前回結果:** DevDegree は不合格、ただしリアルプロダクト本線とレイヤーの見せ方を再整理中
 - **次回出願:** 2026年12月
-- **現在:** 社会人（独立開発フェーズ）
+- **現在:** 社会人（独立開発フェーズ / DevDegree 再挑戦準備）
 - **Portfolio:** https://makikoohashi.github.io/
 
 ### プロジェクト進行状況
 | プロジェクト | ステータス | ノート | リンク |
 |------------|----------|------|------|
-| WAKARUMADE iOS | 公開済み / 1.0.2提出済み | LPとYouTube Shorts運用開始 | [詳細](projects/wakarumade-ios-dev-log.md) |
-| Ruidaichan | App Review継続中 | `Ready for Review`で返答待ち | [詳細](projects/ruidaichan-dev-log.md) |
-| eBay Catalog Bridge | 立ち上げ完了 / 連携作業中 | 外部アカウント準備のブロッカーあり | https://github.com/MakikoOhashi/ebay-catalog-bridge |
-| GSoC 2026 | 取り組み先決定 | `json-schema-org/community#980` Qualification Taskを進行予定 | [詳細](projects/gsoc-dev-log.md) |
+| WAKARUMADE iOS | 公開済み / Shorts運用継続 | LPとYouTube Shortsを毎日運用 | [詳細](projects/wakarumade-ios-dev-log.md) |
+| Ruidaichan | 課金プラン追加 / 再提出 | StoreKit 対応を進めつつ審査待ち | [詳細](projects/ruidaichan-dev-log.md) |
+| Inbound Tracking | 英語リスティング提出済み | Cloudflare front + Render back へ整理済み | [詳細](projects/tracktoinventory-dev-log.md) |
+| Tango Shuukan | Twilio導入 / 再提出中 | SMS 学習導線の成立性を検証中 | [詳細](projects/tango-shuukan-dev-log.md) |
+| Coaching Company | 商品部分を磨き込み / next repo 作成 | 収益化候補として再検討中 | [詳細](projects/coaching-company-dev-log.md) |
 
 ### 学習進捗
-- **Duolingo English Test:** Writing強化中（写真描写の短文完結を重点）
-- **LSAT Logic Games:** 22/50（品質の低い問題は不成立として切り分け）
-- **LeetCode:** 低優先で維持
+- **Duolingo English Test:** 写真描写の短文完結を継続
+- **LSAT Logic Games:** BrainBashers で毎朝継続
+- **LeetCode:** 低優先で維持しつつ、朝ルーティンに残す
 
 ### 直近の優先順位
-- [ ] GSoC #980 Qualification Task（POC + 既存コード評価）
-- [ ] eBay Catalog Bridge の外部ブロッカー解除
-- [ ] WAKARUMADE Shortsの日次運用継続
-- [ ] DET Writing（4-5短文を毎回完結）
+- [ ] Tango Shuukan / Ruidaichan の審査対応を前に進める
+- [ ] Shopify 構築支援の受託対応を継続する
+- [ ] LP 統合と横断サイトの導線を整える
+- [ ] VPS 上 Codex の使いどころを絞って、週次で使い続けられる形にする
 
 ---
 
@@ -204,3 +205,4 @@ Human -> AI Agent -> API/Backend/System of Record -> Execution & Evidence
 - 2026-02-12: AI Output Governance Engineの抽出版ドキュメントを追加
 - 2026-02-12: 思想の原点メモ（2026-01）を references/ に追加
 - 2026-03-11: 現状セクションを最新化（iOS公開/審査状況/GSoC方針/学習進捗）
+- 2026-04-13: 現状セクションを最新化（Tango Shuukan / Ruidaichan / Inbound Tracking / VPS 導入）
