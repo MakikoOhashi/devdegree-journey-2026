@@ -1,15 +1,45 @@
 # Devdegree 2026 再挑戦記録
 
+## 📊 現状 (Updated: 2026-04-13)
+
+### 基本情報
+- **前回結果:** DevDegree は不合格、ただしリアルプロダクト本線とレイヤーの見せ方を再整理中
+- **次回出願:** 2026年12月
+- **現在:** 社会人（独立開発フェーズ / DevDegree 再挑戦準備）
+- **Portfolio:** https://makikoohashi.github.io/
+
+### プロジェクト進行状況
+| プロジェクト | ステータス | ノート | リンク |
+|------------|----------|------|------|
+| WAKARUMADE iOS | 公開済み / Shorts運用継続 | LPとYouTube Shortsを毎日運用 | [詳細](projects/wakarumade-ios-dev-log.md) |
+| Ruidaichan | 課金プラン追加 / 再提出 | StoreKit 対応を進めつつ審査待ち | [詳細](projects/ruidaichan-dev-log.md) |
+| Inbound Tracking | 英語リスティング提出済み | Cloudflare front + Render back へ整理済み | [詳細](projects/tracktoinventory-dev-log.md) |
+| Tango Shuukan | Twilio導入 / 再提出中 | SMS 学習導線の成立性を検証中 | [詳細](projects/tango-shuukan-dev-log.md) |
+| Coaching Company | 商品部分を磨き込み / next repo 作成 | 収益化候補として再検討中 | [詳細](projects/coaching-company-dev-log.md) |
+
+### 学習進捗
+- **Duolingo English Test:** 写真描写の短文完結を継続
+- **LSAT Logic Games:** BrainBashers で毎朝継続
+- **LeetCode:** 低優先で維持しつつ、朝ルーティンに残す
+
+### 直近の優先順位
+- [ ] Tango Shuukan / Ruidaichan の審査対応を前に進める
+- [ ] Shopify 構築支援の受託対応を継続する
+- [ ] LP 統合と横断サイトの導線を整える
+- [ ] VPS 上 Codex の使いどころを絞って、週次で使い続けられる形にする
+
 ## 🎯 Core Theme / 開発思想
 
-**人間の判断・不安・確認コストを、AIによる「予測と根拠提示」で事前に消す**
+**人間の判断・不安・確認コストを、AIによる「予測と根拠提示」で事前に消し、Product / Platform / Systems をつなぐ**
 
 ### 最重要テーマ
-> **人間の判断・不安・確認コストをAIによる“予測と根拠提示”で事前に消す。**
+> **人間の判断・不安・確認コストをAIによる“予測と根拠提示”で事前に消し、Product / Platform / Systems をつなぐ。**
 
-My work focuses on reducing human decision-making anxiety and verification costs by using AI-driven prediction with clear, explainable reasoning.
+My work focuses on reducing human decision-making anxiety and verification costs through AI-driven prediction with clear, explainable reasoning.
 
-Across tax, inventory, education, and operational workflows, I design systems where AI does not replace humans, but helps them decide faster and with confidence.
+Across tax, inventory, education, and operational workflows, I design systems where AI helps people decide faster with confidence.
+
+I am especially interested in moving between product surfaces, shared platforms, and systems that make repeated operations scalable.
 
 重要なのは、AIを使うこと自体が目的ではないこと。  
 AIはあくまで、やりたいことを解決するために部分的に導入している手段であり、本質は「不安・調整コスト・確認コストを減らす設計」にある。
@@ -30,10 +60,10 @@ AIはあくまで、やりたいことを解決するために部分的に導入
 - 生成AI: 出力品質の不確実性
 
 ### AIは手段であって目的ではない
-- to C（教育・親子）でも、to B（Shopify / 輸入管理）でも、AIを前面に出したいわけではない
+- AIを前面に出したいわけではない
 - 目的は、詰まる瞬間・確認の手間・判断の不安を減らすこと
 - AIは、そのために必要な部分だけ導入する
-- したがって価値の中心は「AIを使っていること」ではなく、「ちょうどよく制御された体験・運用・導線」にある
+- 価値の中心は「AIを使っていること」ではなく、「ちょうどよく制御された体験・運用・導線」にある
 
 ### 外向きの二本軸
 外向きには、現在の活動は次の二本軸で整理する。
@@ -44,11 +74,10 @@ AIはあくまで、やりたいことを解決するために部分的に導入
 - 子どもの学習
 - `WAKARUMADE`
 - `Ruidaichan`
+- `たんご習慣`
 - チャネル:
   - ネイティブアプリ
   - YouTube
-  - Instagram
-  - Threads
 
 ここは **痛み -> 共感 -> ちょうどいい解決** で進める軸。
 
@@ -57,9 +86,9 @@ AIはあくまで、やりたいことを解決するために部分的に導入
 - 輸入商品管理
 - ERP代替
 - 在庫 / 進捗 / 運用負荷削減
-- `Track to Inventory`
 - `Forecast to Inventory`
 - `eBay sync`
+- `Inbound Tracking（旧 Track to Inventory）`
 - チャネル:
   - LinkedIn
   - ポートフォリオ
@@ -82,12 +111,11 @@ AIはあくまで、やりたいことを解決するために部分的に導入
 外向きには二本軸、内側の思想は一本、という構造で持つ。
 
 ### 発信と数字の扱い方
-- マーケは主戦場にしない。制作集中を守るため、発信は「気合いを入れてやるもの」ではなく「ルーティンとして回すもの」にする
+- マーケは主戦場にしない
 - 基本方針は **置く・整える・少し見る**
-- Shorts / Instagram / Threads は、毎日淡々と出す。ただし毎回の反応で大きく動かない
-- App Store Connect や再生数は毎日追わない。数字は週1回だけ確認し、軽く振り返る
-- 目的は「反応を追いかけること」ではなく、「見つけてもらえる状態を静かに増やすこと」
-- 自分は雑なマーケが苦手で、認知を奪われやすい。だからこそ、反応確認も含めて低認知負荷の運用に固定する
+- Shorts は毎日淡々と出す
+- 数字は週1回だけ確認する
+- 目的は「反応を追うこと」ではなく、「見つけてもらえる状態を静かに増やすこと」
 
 ### なぜこの軸か
 - **背景:** 10年以上の実務で「人間の不安が業務を止める瞬間」を何度も見た
@@ -104,6 +132,7 @@ AIはあくまで、やりたいことを解決するために部分的に導入
 
 狙う見せ方:
 - 「AIを使ったアプリ開発者」ではなく「AI制御レイヤーを設計できる人」
+- 単発の作品ではなく、Product Layer から Platform Layer、Systems / Org Leverage Layer へ視座を上げられる人
 - ハッカソン量産ではなく、共通設計思想で複数プロダクトを接続して示す
 
 ### 実行優先順位（2026上半期）
@@ -114,7 +143,6 @@ AIはあくまで、やりたいことを解決するために部分的に導入
 ### 重要ドキュメント（思想の固定化）
 - [AI Output Governance Engine](projects/ai-output-governance-engine.md)
 - [思想の原点（2026-01）](references/2026-01-origin-thesis.md)
-- [日次進捗ログ手順](references/daily-progress-logging-process.md)
 - 目的: 「何を作るか」ではなく「どんな状態を作るか」を短く固定して、判断基準のぶれを防ぐ
 
 ### AI中心時代の設計前提
@@ -157,34 +185,6 @@ Human -> AI Agent -> API/Backend/System of Record -> Execution & Evidence
 
 これは分析ツールではなく、  
 **人間とAIが共同で責任を取るための意思決定インフラ**として設計する。
-
-## 📊 現状 (Updated: 2026-04-13)
-
-### 基本情報
-- **前回結果:** DevDegree は不合格、ただしリアルプロダクト本線とレイヤーの見せ方を再整理中
-- **次回出願:** 2026年12月
-- **現在:** 社会人（独立開発フェーズ / DevDegree 再挑戦準備）
-- **Portfolio:** https://makikoohashi.github.io/
-
-### プロジェクト進行状況
-| プロジェクト | ステータス | ノート | リンク |
-|------------|----------|------|------|
-| WAKARUMADE iOS | 公開済み / Shorts運用継続 | LPとYouTube Shortsを毎日運用 | [詳細](projects/wakarumade-ios-dev-log.md) |
-| Ruidaichan | 課金プラン追加 / 再提出 | StoreKit 対応を進めつつ審査待ち | [詳細](projects/ruidaichan-dev-log.md) |
-| Inbound Tracking | 英語リスティング提出済み | Cloudflare front + Render back へ整理済み | [詳細](projects/tracktoinventory-dev-log.md) |
-| Tango Shuukan | Twilio導入 / 再提出中 | SMS 学習導線の成立性を検証中 | [詳細](projects/tango-shuukan-dev-log.md) |
-| Coaching Company | 商品部分を磨き込み / next repo 作成 | 収益化候補として再検討中 | [詳細](projects/coaching-company-dev-log.md) |
-
-### 学習進捗
-- **Duolingo English Test:** 写真描写の短文完結を継続
-- **LSAT Logic Games:** BrainBashers で毎朝継続
-- **LeetCode:** 低優先で維持しつつ、朝ルーティンに残す
-
-### 直近の優先順位
-- [ ] Tango Shuukan / Ruidaichan の審査対応を前に進める
-- [ ] Shopify 構築支援の受託対応を継続する
-- [ ] LP 統合と横断サイトの導線を整える
-- [ ] VPS 上 Codex の使いどころを絞って、週次で使い続けられる形にする
 
 ---
 
