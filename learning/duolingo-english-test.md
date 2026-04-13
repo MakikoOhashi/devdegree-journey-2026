@@ -481,3 +481,28 @@
 - 予測機能で「次に解くべき問題」を提示
 
 → これ自体がポートフォリオになる
+
+### 2026-04-07
+- DET Writing / Image Description を再周回
+- W を一周したため、再度 W を実施
+- 画像描写では、見えているものは拾えているが `photo` / `cities` など自然な言い回しの調整が課題
+- `in front of the city`, `mountains in the distance` などの表現を確認
+
+### 2026-04-08
+- DET Image Description を実施
+- 海の写真について描写
+- 内容は拾えていたが、途中で手が止まった
+- この形式では止まらずにまず言い切ることが大事だと再確認
+- `a photo of the sea`, `in the sunlight` など自然な言い回しを確認
+
+### 2026-04-09
+- DET Image Description を実施
+- 雨上がりの街路の写真を描写
+- 内容は近かったが、時間内に流し切る瞬発力がまだ課題だと実感
+- `a rainy street`, `looks like a mirror`, `reflects the buildings` などの自然な表現を確認
+
+### 2026-04-10
+- DET Image Description を実施
+- 夜の街路の写真を描写
+- 必死で長く書こうとするより、ゴールを決めて「3文で流す」とした方が回しやすいと整理
+- `shows a street at night`, `many shops along the street`, `a busy sightseeing area` などの自然な表現を確認

@@ -111,3 +111,15 @@
   - 今回数えるのは `JSONValue` の中身ではなく、引数の個数
   - `.length` は「最初から最後まで」ではなく、配列に入っている要素数
   - 今回は `return args.length;` だけでよかった
+
+### 2026-04-08
+- Promise / sleep 問題に着手
+- `resolve` は型ではなく、Promise が渡してくる引数だと整理
+- `Promise<void>` は値を返さず、完了だけを表す Promise だと理解
+- `new Promise(...)` は新しい Promise を作って返す、という入り口を確認
+
+### 2026-04-09
+- `cancellable` 問題を提出
+- `setTimeout` で予約し、`clearTimeout` で取り消す基本を確認
+- `clearTimeout` は自分で定義するものではなく、JavaScript の組み込み機能だと理解
+- Promise / timer 系は、最初から知っている前提の知識が多く、つらさが出やすいと実感

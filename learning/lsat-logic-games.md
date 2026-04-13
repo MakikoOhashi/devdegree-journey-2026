@@ -371,3 +371,22 @@
 ### 料金・実施方針メモ
 - Devdegree対策では、LSATは無料練習範囲を優先活用
 - 正式受験スコア取得は必要になった時点で判断
+
+### 2026-04-07
+- https://www.brainbashers.com/puzzle/zisk を実施
+- 時間はかかったが正解できた
+- 条件整理に時間がかかっても、最後まで解けたことを前進として記録
+
+### 2026-04-08
+- https://www.brainbashers.com/puzzle/zsxk を実施
+- その場では解き切れなかったが、条件を `A > B` の一対一比較に分解してから鎖としてつなぐ方がよいと整理
+- 総当たりではなく、同じ名前でつながる比較だけ見て鎖を伸ばす発想を学んだ
+
+### 2026-04-09
+- https://www.brainbashers.com/puzzle/ztnz を実施
+- 時間はかかったが正解
+- `was beaten by / beat / lost to` が混ざる長い一文を、一対一比較に分解して整理する練習になった
+
+### 2026-04-10
+- https://www.brainbashers.com/puzzle/zcsb を実施
+- 正解できた
