@@ -68,13 +68,19 @@ AIはあくまで、やりたいことを解決するために部分的に導入
 ### 外向きの二本軸
 外向きには、現在の活動は次の二本軸で整理する。
 
+これは単なる「2プロダクト」ではなく、`toC` と `toB` の両方で実課題を解いてきたという **2つの市場理解** を示す。  
+DevDegree に対しては「私は toC と toB の両方で実課題を解いてきた」というメッセージになる。  
+補助メモ: [Two-Market Thesis](strategy-two-axes.md)
+
 #### 1. to C
 - 教育文面
 - 親子の詰まり
 - 子どもの学習
+- 資格 / 学習の習慣化
 - `WAKARUMADE`
 - `Ruidaichan`
 - `たんご習慣`
+- `Coaching Company`
 - チャネル:
   - ネイティブアプリ
   - YouTube
@@ -86,9 +92,11 @@ AIはあくまで、やりたいことを解決するために部分的に導入
 - 輸入商品管理
 - ERP代替
 - 在庫 / 進捗 / 運用負荷削減
+- 商社 / 貿易 / EC
 - `Forecast to Inventory`
 - `eBay sync`
 - `Inbound Tracking（旧 Track to Inventory）`
+- `trade-shelf-agent`
 - チャネル:
   - LinkedIn
   - ポートフォリオ
@@ -143,6 +151,7 @@ AIはあくまで、やりたいことを解決するために部分的に導入
 ### 重要ドキュメント（思想の固定化）
 - [AI Output Governance Engine](projects/ai-output-governance-engine.md)
 - [思想の原点（2026-01）](references/2026-01-origin-thesis.md)
+- [Two-Market Thesis](strategy-two-axes.md)
 - 目的: 「何を作るか」ではなく「どんな状態を作るか」を短く固定して、判断基準のぶれを防ぐ
 
 ### AI中心時代の設計前提
