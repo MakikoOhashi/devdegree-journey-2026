@@ -506,3 +506,6 @@
 - 夜の街路の写真を描写
 - 必死で長く書こうとするより、ゴールを決めて「3文で流す」とした方が回しやすいと整理
 - `shows a street at night`, `many shops along the street`, `a busy sightseeing area` などの自然な表現を確認
+
+### 2026-04-27
+- DET 写真描写を1問完了（継続）

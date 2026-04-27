@@ -123,3 +123,8 @@
 - `setTimeout` で予約し、`clearTimeout` で取り消す基本を確認
 - `clearTimeout` は自分で定義するものではなく、JavaScript の組み込み機能だと理解
 - Promise / timer 系は、最初から知っている前提の知識が多く、つらさが出やすいと実感
+
+### 2026-04-27
+- LeetCode を1問完了（map系）
+- 学び:
+  - `map` 系はまだ自力で最後まで書き切れない
