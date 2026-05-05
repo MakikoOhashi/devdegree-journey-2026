@@ -133,3 +133,18 @@
 - LeetCode を1問完了
 - 学び:
   - 「`let result` で初期化 → `for` で処理 → `return result`」が共通テンプレート
+
+### 2026-05-04
+- LeetCode を1問完了
+- 学び:
+  - Promise は「箱」なので、そのままでは計算できない（`promise1 + promise2` は不可）
+  - `const b = await promise2;` のように `await` で「値」にしてから足し算する
+- 変更:
+  - async/await の型（受け取る→`await`→処理）をテンプレ化して反復する
+
+### 2026-05-05
+- LeetCode を1問完了（sleep / wait系）
+- つまずき:
+  - `return new Promise(resolve => setTimeout(resolve, millis));` がまだ腹落ちしていない
+- 次アクション:
+  - callback / Promise / async/await の関係を図解してから、同型問題をもう1問解く
