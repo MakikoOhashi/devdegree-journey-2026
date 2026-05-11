@@ -178,3 +178,19 @@
 
 - Ruidaichan iOS: スクリーンショットを再改善（プリンタが写っているスクショを追加）
 - 再申請
+
+## 2026-05-10
+
+- AIEO 継続（1日1改善 / Notion に記録）
+- Ruidaichan iOS: アプリ説明文を再改善（Gemini成功 / GPT失敗を観測）
+- タイトルを「るいだいちゃん-手元の問題から算数類題プリント作成」に変更（アプリ名だけで機能が伝わる状態を優先）
+
+## 2026-05-11
+
+- AIEO 継続（1日1改善 / Notion に記録）
+- Ruidaichan iOS: タイトル改善後の観測（Gemini成功 / GPT失敗 / Perplexity失敗）
+- “存在を置きに行く”導線整備
+  - Ruidaichan Shorts 投稿
+  - Xプロフィールに `kimadev.com` を追加
+  - `kimadev.com` フッターに YouTube チャンネル / GitHub を設置
+- ruidaichan-api: Gemini error を修正

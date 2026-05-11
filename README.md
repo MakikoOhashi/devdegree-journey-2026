@@ -196,6 +196,12 @@ Human -> AI Agent -> API/Backend/System of Record -> Execution & Evidence
 **人間とAIが共同で責任を取るための意思決定インフラ**として設計する。
 
 ---
+## 2026/05/11　最新重要方針 「実務構造をAI時代に再設計してる人」
+✅ 貿易オペレーションの曖昧状態をAIが扱える形へ変換しようとしている
+✅ 人間承認を残しながらagent workflowを設計した
+✅ 実務経験からincident layerを設計した　
+
+---
 
 ## 📁 ディレクトリ構成
 ```
