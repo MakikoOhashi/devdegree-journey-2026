@@ -194,3 +194,9 @@
   - Xプロフィールに `kimadev.com` を追加
   - `kimadev.com` フッターに YouTube チャンネル / GitHub を設置
 - ruidaichan-api: Gemini error を修正
+
+## 2026-05-12
+
+- AIEO 継続（1日1改善 / Notion に記録）
+- Ruidaichan iOS: タイトル改善 / Shorts設置後の観測（Gemini成功 / GPT失敗 / Perplexity成功）
+- ruidaichan-api: Gemini が Render のリージョン制約で弾かれたため、Gemini部分のみ Cloudflare `common-ai-api` へ移動
