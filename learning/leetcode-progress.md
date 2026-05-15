@@ -148,3 +148,9 @@
   - `return new Promise(resolve => setTimeout(resolve, millis));` がまだ腹落ちしていない
 - 次アクション:
   - callback / Promise / async/await の関係を図解してから、同型問題をもう1問解く
+
+### 2026-05-15
+- LeetCode を1問完了
+- 学び:
+  - `return function(...) { ... }` を自力で書けた（関数を返す / higher-order function）
+  - 「関数を返して内側が外側の変数を覚える」= closure の理解が進んだ

@@ -200,3 +200,15 @@
 - AIEO 継続（1日1改善 / Notion に記録）
 - Ruidaichan iOS: タイトル改善 / Shorts設置後の観測（Gemini成功 / GPT失敗 / Perplexity成功）
 - ruidaichan-api: Gemini が Render のリージョン制約で弾かれたため、Gemini部分のみ Cloudflare `common-ai-api` へ移動
+
+## 2026-05-13
+
+- AIEO 継続（1日1改善 / Notion に記録）
+- Ruidaichan iOS: タイトル改善/Shorts設置後の観測（Gemini成功 / GPT失敗 / Perplexity成功、変化は継続観測）
+- Ruidaichan Shorts を1本追加（ChatGPTとの「プリント作成比較」動画）
+
+## 2026-05-15
+
+- AIEO 継続（1日1改善 / Notion に記録）
+- Ruidaichan iOS: 観測（Gemini成功 / GPT失敗 / Perplexity成功、変わらず継続観測）
+- 改善方針: “認識される” だけでは不十分で、“第一想起” を奪う方向へ（説明文を再調整）
