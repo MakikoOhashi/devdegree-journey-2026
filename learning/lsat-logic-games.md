@@ -98,6 +98,7 @@
 | 2026-03-30 | [BrainBashers Puzzle ZGQN](https://www.brainbashers.com/puzzle/zgqn) | 1 | - | - | `more likely` を候補枚数比較で読む必要があり、英文条件の読み取りで詰まった |
 | 2026-05-04 | [BrainBashers Puzzle ZGIR](https://www.brainbashers.com/puzzle/zgir) | 1 | - | - | 1問完了（正解） |
 | 2026-05-05 | [BrainBashers Puzzle ZVBY](https://www.brainbashers.com/puzzle/zvby) | 1 | - | - | 1問完了（正解） |
+| 2026-05-18 | [Brilliant Logic Deduction: Between](https://brilliant.org/courses/logic-deduction/) | 1 | - | - | 1レッスン完了 |
 
 ## 学習ログ
 

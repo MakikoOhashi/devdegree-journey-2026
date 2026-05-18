@@ -25,3 +25,8 @@ This is the kind of builder I want to become through DevDegree.
 I clarified my main battlefield as **AI × real-world operations**: moving human decisions forward and reducing verification/coordination costs.
 
 Education apps remain valuable, but mainly as **experimental assets** (distribution + iteration practice). My “home court” is trade / EC / Shopify-flavored operations where domain understanding becomes product advantage.
+
+## Update (2026-05-18)
+For consumer apps (e.g. Ruidaichan), the success metric is shifting from **AIEO alone** to **real usage signals**: reviews, active use, retention, and evidence that real users keep coming back.
+
+Freelance outreach (e.g. Lancers) works best as **problem-solver marketing**—what I have seen, what I can improve—not as a generic “I can do tasks” pitch. Anchor: Shopify × trade × AI × operational improvement.

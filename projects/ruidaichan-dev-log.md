@@ -212,3 +212,16 @@
 - AIEO 継続（1日1改善 / Notion に記録）
 - Ruidaichan iOS: 観測（Gemini成功 / GPT失敗 / Perplexity成功、変わらず継続観測）
 - 改善方針: “認識される” だけでは不十分で、“第一想起” を奪う方向へ（説明文を再調整）
+
+## 2026-05-17
+
+- AIEO 継続（1日1改善 / Notion に記録）
+- Ruidaichan iOS: 観測（Gemini成功 / GPT失敗 / Perplexity成功、変わらず継続観測）
+- 優先順位を固定（App Store内部の信頼・視覚・利用証拠を優先）
+  - App Storeレビュー → スクショ改善 → App Store文言 → Shortsで実利用動画 → 外部LP
+
+## 2026-05-18
+
+- AIEO 継続（1日1改善 / Notion に記録）
+- Ruidaichan iOS: 観測（Gemini成功 / GPT失敗 / Perplexity成功、変わらず継続観測）
+- 方針転換: AIEO（文面・semantic最適化）だけでは限界。最終シグナルは実ユーザー獲得（レビュー・利用・継続率など実利用シグナル）へ
